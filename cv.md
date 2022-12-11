@@ -3,4 +3,4 @@ layout: secondary_pages
 ---
 
 
-You can find my [CV here](/assets/VanessaVillanuevaCV_2022.pdf).
+You can find my [CV here](/assets/VanessaVillanueva_CV_2022.pdf).
