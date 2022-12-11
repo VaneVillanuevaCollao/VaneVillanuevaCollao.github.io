@@ -60,4 +60,3 @@ The technology around genomics has moved at a swift pace while reducing the enti
 <br>
 
 * **The New ICO Intermediaries** <a href="https://www.theitalianlawjournal.it/vw/" target="_blank">*(5 Italian Law Journal 731, 2019)*</a>   
-	
