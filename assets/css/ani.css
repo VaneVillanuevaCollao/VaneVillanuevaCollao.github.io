@@ -25,11 +25,11 @@ h2, h4{
 }
 
 .a1 {
-  color: #831F82;
+  color: #FF5F0F;
 }
 
 a{
-  color: #831F82;
+  color: #FF5F0F;
 }
 
 
@@ -55,14 +55,14 @@ a{
 .navbar-color{
     background-color: #13294B;;
     border-color: #13294B;
-    font-color: #831F82;
-    color: #831F82;
+    font-color: #FF5F0F;
+    color: #FF5F0F;
 }
 
 .nav > li > a:hover,
 .nav > li > a:focus {
-  text-decoration: #831F82;
-  background-color: #831F82;
+  text-decoration: #FF5F0F;
+  background-color: #FF5F0F;
 }
 
 .navbar-inverse .navbar-brand {
