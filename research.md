@@ -51,7 +51,6 @@ This article illustrates how comparative law would benefit from the scientific m
 
 * **Protecting Privacy with Blockchain: When Genomics Meets DTC, European Journal of Privacy & Technology, forthcoming (2022)** 
 	
-	
 <!---	<details>
   <summary><span class='icon-right'></span> Abstract</summary><p>-->
 The technology around genomics has moved at a swift pace while reducing the entire sequencing costs. Biotech advancement increased the demand for gene sequencing services and data storage, creating privacy risks and making de-identification difficult. To mitigate those risks, genomic startups have turned to cryptographic technologies like Blockchain. However, Blockchain is not a panacea, and privacy issues in genomics are a concern that is hardly addressed from a bioethical or philosophical perspective. The most challenging obstacle plaintiffs face in privacy lawsuits is assessing the injury–the connection between privacy threats and concrete harms. This paper explains why genomic companies that use Blockchain expose their users to specific harms that fall outside agencies and regulations radars by providing some examples of injuries-in-fact. 
@@ -60,8 +59,5 @@ The technology around genomics has moved at a swift pace while reducing the enti
 <br>
 <br>
 
-
-
 * **The New ICO Intermediaries** <a href="https://www.theitalianlawjournal.it/vw/" target="_blank">*(5 Italian Law Journal 731, 2019)*</a>   
-	
 	
