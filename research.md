@@ -2,14 +2,25 @@
 layout: secondary_pages
 ---
 
-## Published Papers
+## Works in Progress
 
-* **The Tribal Digital Divide: Extent and Explanations** <a href="https://authors.elsevier.com/c/1fGcl16AgYEnw9" target="_blank">*(Telecommunications Policy)*</a> <a href="https://www.minneapolisfed.org/research/cicd-working-paper-series/the-tribal-digital-divide-extent-and-explanations" target="_blank">*(CICD Working Paper version)*</a>  <!---[[SSRN]](https://ssrn.com/abstract=3020332) -->
-	(with <a href="https://www.donnafeir.com/" target="_blank">Donn. L. Feir</a> and <a href="https://sites.google.com/prod/view/mattgregg" target="_blank">Matthew T. Gregg)
+* **Data Governance Firms in Corporate Boardroomss** 
+
+<!---	<details>
+  <summary><span class='icon-right'></span> Abstract</summary><p>-->
+In this paper, I plan to argue that algorithms should be integrated into the board structure of data-driven enterprises because of the unmanageable volumes of data they generate. Thus, data governance frameworks are crucial for management but especially for board decision-making. How to include data governance in the boardroom? This article illustrates how data governance can be implemented in the boardroom by creating a hybrid model: an “algorithm” next to the human board composition. This boardroom model includes a legal entity (a Data Governance Firm—DGF) for designing an algorithmic board member consistent with the corporation’s purpose. The DGF’s role in developing an algorithmic seat is to transform the corporation and its constituencies into complex intersectional relationships based on data. Therefore, rather than being a nexus of contracts, modern corporations and their constituencies can be included in datasets showing a nexus of data. 
+<!--- </p></details>-->
+
+<br>
+<br>
+
+* **The New Frontier of Data Privacy and Ownership Structure: Tokenizing Genomics** 
 	
-	<details>
-  <summary><span class='icon-right'></span>Abstract </summary><p>
-We document systematic differences in connection speeds, prices for basic broadband service, and home internet access between American Indian Reservations and neighboring areas. Consistent with past studies, we find large raw tribal gaps in these broadband outcomes. Regression techniques and Oster (2019)'s method reveal that traditional cost factors, similar to those used in FCC's Connect American Cost Model, fully explain the price gap but explain only a fraction of the tribal gaps in access and connection speeds.  Income differences are strong predictors on internet access but do not affect the tribal gap in connectivity. We conclude with a discussion of the factors specific to Indian County that might drive the unexplained gap in access and connectivity.</p></details>
+	
+<!---	<details>
+  <summary><span class='icon-right'></span> Abstract</summary><p>-->
+Biotech companies have resorted to blockchain and unregulated vehicles, such as initial coin offerings, as a cheap way of monetizing DNA while funding the company. This paper explains how biotech blockchain companies have promised investors control over genetic data but obscured other dynamics within the company ownership structure. Not only do token holders lack voting rights, but they are in a new vulnerable position: the company has possession of their genetic data. At the same time, traditional shareholders surreptitiously gain more power and control. This paper’s analysis will shed light on the relationship between shareholders who invested capital and token holders whose interests depend on the human genetic capital shared with the company and the emerging implications from this scenario.. 
+<!--- </p></details>-->
 
 <br>
 <br>
@@ -32,7 +43,7 @@ The technology around genomics has moved at a swift pace while reducing the enti
 
 
 
-* **The New ICO Intermediaries** <a href="https://www.theitalianlawjournal.it/vw/" target="_blank">*(Italian Law Journal, 2020)*</a>   
+* **The New ICO Intermediaries** <a href="https://www.theitalianlawjournal.it/vw/" target="_blank">*(5 Italian Law Journal 731, 2019)*</a>   
 	
 	
 	
