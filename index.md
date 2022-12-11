@@ -14,7 +14,7 @@ My primary research interests are at the intersection of law and technology, dec
 You can find my <a href="/assets/VanessaVillanuevaCollao_CV_2022.pdf" target="_blank">CV here.</a> 
 <br>
 
-Contacts <a href="mailto:vav4@illinois.edu">here at illinois.edu </a> or <a href="mailto:v.villanuevacollao@berkeley.edu">here at berkeley.edu </a> 
+Contacts - <a href="mailto:vav4@illinois.edu">here at illinois.edu </a> or <a href="mailto:v.villanuevacollao@berkeley.edu">here at berkeley.edu </a> 
 
 <br>
 <br>
@@ -26,7 +26,7 @@ Contacts <a href="mailto:vav4@illinois.edu">here at illinois.edu </a> or <a href
 College of Law
 
 504 East Pennsylvania Avenue
-
+<br>
 Champaign, IL 61801
 
 
