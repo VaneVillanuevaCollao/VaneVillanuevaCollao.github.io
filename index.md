@@ -6,7 +6,7 @@ layout: default
 JSD Candidate at the <a class="a1" href="https://law.illinois.edu/faculty-research/meet-our-jsd-candidates/" target="_blank"> University of Illinois at Urbana-Champaign.</a> 
 <br>
 <br>
-Research Fellow at the University of Roma Tre - href="https://southeugooglechair.com/" target="_blank">  South EU Google Data Governance Chair Project.</a>
+Research Fellow at the University of Roma Tre -  <a class="a1" href="https://southeugooglechair.com/" target="_blank">  South EU Google Data Governance Chair Project.</a>
 <br>
 
 <br>
