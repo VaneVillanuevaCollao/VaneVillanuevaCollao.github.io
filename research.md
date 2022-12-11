@@ -29,6 +29,10 @@ The technology around genomics has moved at a swift pace while reducing the enti
 <br>
 <br>
 
+* **The New ICO Intermediaries** <a href="https://www.theitalianlawjournal.it/vw/" target="_blank">*</a> (with <a href="https://law.illinois.edu/faculty-research/faculty-profiles/verity-winship/" target="_blank">Verity Winship).
+
+	
+	
 * **Group Dynamics and Party Switching: Evidence from Argentina’s Roll Calls** <a href="/assets/Bauer_Group_dynamics_and_party_switching.pdf" target="_blank">*(pdf)*</a>   <!---[[SSRN]](https://ssrn.com/abstract=3020332) -->
 	
 	
