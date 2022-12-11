@@ -4,7 +4,7 @@ body {
   font-family: 'Roboto', sans-serif;
   color: #000;
   background: #fff;
-  font-size: 18px;
+  font-size: 20px;
   padding: 50px;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
@@ -34,7 +34,7 @@ a{
 
 
 .navbar{
-    background-color: #00B8DE;
+    background-color: #13294B;
     border-color: #00B8DE;
 }
 
