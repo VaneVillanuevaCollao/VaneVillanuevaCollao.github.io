@@ -39,9 +39,8 @@ DeFi, or Decentralized Finance, is the technological distribution of financial s
 <br>
 
 
-* **Empirical Methods in Comparative Law: Data Talks, COMP. L. REV. (2022) forthcoming ** 
-	
-	
+* **Empirical Methods in Comparative Law: Data Talks, COMP. L. REV. (2022) forthcoming** 
+		
 <!---	<details>
   <summary><span class='icon-right'></span> Abstract</summary><p>-->
 This article illustrates how comparative law would benefit from the scientific method to bolster its reliability when comparing legal systems. It proposes to improve the method of comparison by creating a testable hypothesis that can help theorize and substantiate the functionalist or differentialist analysis. Empirical research would not obscure current comparative methodologies and tools but would enhance them by mapping a concrete interaction between theory and human activity. To this end, I introduce a comparative analysis example of traditional markets and cryptomarkets to uncover the elements of a successful cryptoassets sale. Finally, the paper focuses on different types of quantitative empirical legal research and methods used in legal studies and how they can be connected to comparative law. It concludes by identifying the limitations of this methodology as applied to comparative law and previewing a future of combined methods.
@@ -69,4 +68,3 @@ The technology around genomics has moved at a swift pace while reducing the enti
 	
 	
 	
-
