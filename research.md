@@ -18,7 +18,7 @@ We document systematic differences in connection speeds, prices for basic broadb
 
 
 
-* **Protecting Privacy with Blockchain: When Genomics Meets DTC, European Journal of Privacy & Technology, forthcoming (2022)** *
+* **Protecting Privacy with Blockchain: When Genomics Meets DTC, European Journal of Privacy & Technology, forthcoming (2022)** 
 	
 	
 <!---	<details>
