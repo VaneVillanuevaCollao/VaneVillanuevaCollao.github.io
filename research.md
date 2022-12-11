@@ -14,16 +14,16 @@ We document systematic differences in connection speeds, prices for basic broadb
 <br>
 <br>
 
-## Working Papers
+## Selected Publications
 
 
 
-* **Effects of E-commerce on Local Labor Markets** <a href="/assets/Bauer_JMP.pdf" target="_blank">*(Job Market Paper)*</a> <!--- [[SSRN]](https://ssrn.com/abstract=3020332) -->
+* **Protecting Privacy with Blockchain: When Genomics Meets DTC, European Journal of Privacy & Technology, forthcoming (2022)** *
 	
 	
 <!---	<details>
   <summary><span class='icon-right'></span> Abstract</summary><p>-->
-How has the expansion of e-commerce over the past decade affected labor markets?  Utilizing the variation of state legislation on e-commerce sales tax collection -the Amazon Tax- which reduced out-of-state e-commerce retailers' price advantage, I find declines in employment and wages in e-commerce complementary sectors, such as warehousing and last-mile transportation. In the retail sector, I observe declines in local employment and the number of establishments. Effects in retail are heterogeneous by sub-sector. While big box retail employment increases, other brick-and-mortar retail employment decreases. As the Amazon Tax may induce brick-and-mortar retailers to incorporate online channels, I analyze changes in retail occupational structure. In non-urban areas, I find an increase in the share of office and service occupations and a decrease in the share of sales and related occupations. Through a  general equilibrium model, I find that these results are consistent with an economy in which consumers substitute e-commerce purchases for big box purchases, which leads to the crowding out of other brick-and-mortar retail.
+The technology around genomics has moved at a swift pace while reducing the entire sequencing costs. Biotech advancement increased the demand for gene sequencing services and data storage, creating privacy risks and making de-identification difficult. To mitigate those risks, genomic startups have turned to cryptographic technologies like Blockchain. However, Blockchain is not a panacea, and privacy issues in genomics are a concern that is hardly addressed from a bioethical or philosophical perspective. The most challenging obstacle plaintiffs face in privacy lawsuits is assessing the injury–the connection between privacy threats and concrete harms. This paper explains why genomic companies that use Blockchain expose their users to specific harms that fall outside agencies and regulations radars by providing some examples of injuries-in-fact. 
 <!--- </p></details>-->
 
 <br>
