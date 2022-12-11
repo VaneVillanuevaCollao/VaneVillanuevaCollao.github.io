@@ -21,7 +21,7 @@ h6 {
 }
 h2, h4{
   font-weight: 700;
-  color: #00B8DE;
+  color: #13294B;
 }
 
 .a1 {
@@ -35,7 +35,7 @@ a{
 
 .navbar{
     background-color: #13294B;
-    border-color: #00B8DE;
+    border-color: #13294B;
 }
 
 
@@ -78,7 +78,7 @@ a{
 
 
 .panel-default > .panel-heading {
-  background-color: #00B8DE;
+  background-color: #13294B;
   color: #FFF;
 
 }
