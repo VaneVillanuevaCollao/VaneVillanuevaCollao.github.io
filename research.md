@@ -16,7 +16,7 @@ In this paper, I plan to argue that algorithms should be integrated into the boa
 
 * **The New Frontier of Data Privacy and Ownership Structure: Tokenizing Genomics** 
 	
-	<!---	<details>
+<!---	<details>
   <summary><span class='icon-right'></span> Abstract</summary><p>-->
 Biotech companies have resorted to blockchain and unregulated vehicles, such as initial coin offerings, as a cheap way of monetizing DNA while funding the company. This paper explains how biotech blockchain companies have promised investors control over genetic data but obscured other dynamics within the company ownership structure. Not only do token holders lack voting rights, but they are in a new vulnerable position: the company has possession of their genetic data. At the same time, traditional shareholders surreptitiously gain more power and control. This paper’s analysis will shed light on the relationship between shareholders who invested capital and token holders whose interests depend on the human genetic capital shared with the company and the emerging implications from this scenario. 
 <!--- </p></details>-->
