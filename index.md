@@ -3,30 +3,31 @@ layout: default
 ---
 
 
-I'm an Assistant Professor at the <a class="a1" href="https://www.imt-bs.eu/en/" target="_blank"> Law, Economics and Finance Department at Institut Mines-Télécom Business School.</a> 
+JSD Candidate at the <a class="a1" href="[https://law.illinois.edu/faculty-research/meet-our-jsd-candidates/]" target="_blank"> University of Illinois at Urbana-Champaign.</a> 
 
 <br>
-I'm an applied economist working on topics of Digital Economy. My primary interests are Labor Economics, Industrial Organization and Economics of Innovation. 
+My primary research interests are at the intersection of law and technology, decentralized finance, blockchain, artificial intelligence, with a focus on corporate law. My secondary research interests are on comparative law and empirical methodology.  
 
 <br>
 
-You can find my <a href="/assets/CV_Anahid_Bauer.pdf" target="_blank">CV here.</a> 
+You can find my <a href="/assets/VanessaVillanuevaCollao_CV_2022.pdf" target="_blank">CV here.</a> 
 <br>
 
-If you want to talk to me you can contact me <a href="mailto:anahid.bauer@imt-bs.eu">here</a> or <!-- Calendly link widget begin --> <link href="https://assets.calendly.com/assets/external/widget.css" rel="stylesheet"> <script src="https://assets.calendly.com/assets/external/widget.js" type="text/javascript" async></script> <a href="" onclick="Calendly.initPopupWidget({url: 'https://calendly.com/anahid_bauer/officehours'});return false;">schedule time with me</a> <!-- Calendly link widget end -->
+Contacts <a href="mailto:vav4@illinois.edu">here at illinois.edu </a> or <a href="mailto:v.villanuevacollao@berkeley.edu">here at berkeley.edu </a> 
 
 <br>
 <br>
 <br>
 Contact Info:
 
-<i class="fa fa-home"></i>  Department of Law, Economics and Finance
+<i class="fa fa-home"></i>  University of Illinois at Urbana-Champaign
 
-Institut Mines-Télécom Business School
+College of Law
 
-E309   - 9 rue Charles Fourier
+504 East Pennsylvania Avenue
+Champaign, IL 61801
 
-91011 Évry Cedex, France
+
 
 
 <br>
