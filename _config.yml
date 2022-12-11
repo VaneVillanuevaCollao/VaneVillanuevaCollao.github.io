@@ -17,7 +17,7 @@ title: Vanessa Villanueva Collao
 email: vav4 (at) illinois.edu
 description: Vanessa Villanueva Collao
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://anahid-bauer.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://VaneVillanuevaCollao.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
 markdown: kramdown
