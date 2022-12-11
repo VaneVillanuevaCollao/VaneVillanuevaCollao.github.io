@@ -42,12 +42,12 @@ a<!DOCTYPE html>
                 <li id="active"><a href="/index.html">Home</a></li>
                 <li id="2"><a href="/assets/VanessaVillanuevaCollao_CV_2022.pdf">CV</a></li>
                 <li id="3"><a href="/research.html">Research</a></li>
-                <li id="4"><a href="/teaching.html">Teaching</a></li>
+                <!--<li id="4"><a href="/teaching.html">Teaching</a></li>--!>
                 <li class="dropdown">
                      <a href="6" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Other <span class="caret"></span></a>
                      <ul class="dropdown-menu">
                         <li role="separator" class="divider"></li>
-                        <li><a href="/resources.html" target="_blank">Resources</a></li>
+                        <!--<li><a href="/resources.html" target="_blank">Resources</a></li>--!>
                         <li role="separator" class="divider"></li>
                         <li><a href="/journey.html" target="_blank">My journey</a></li>
                         <li role="separator" class="divider"></li>
@@ -80,7 +80,18 @@ a<!DOCTYPE html>
                 <li class="twitter"><i class="fa fa-twitter"></i><a class="a1" href="https://twitter.com/@AnahidBauer" target="_blank"> AnahidBauer</a></li>
             </ul>
         </div>
-
+links:
+  - label: '<i class="fab fa-linkedin"></i> LinkedIn'
+    url: "https://www.linkedin.com/in/vanessa-villanueva-collao-ll-m-357b1811/"
+  - label: '<i class="fab fa-twitter"></i> Twitter'
+    url: "https://twitter.com/VaneVillanuevaC"
+  - label: '<i class="fab fa-SSRN"></i> SSRN'
+    url: "https://privpapers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=3203253"
+  - label: '<i class="fa fa-envelope" aria-hidden="true"></i> Email'
+    url: "mailto:vav4@illinois.edu"
+output:
+  postcards::jolla
+site: distill::distill_website  
         <div class="col-md-9"> {{content}}</div>
     </div>
 </div>
