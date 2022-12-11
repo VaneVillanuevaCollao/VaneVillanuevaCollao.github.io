@@ -16,8 +16,7 @@ In this paper, I plan to argue that algorithms should be integrated into the boa
 
 * **The New Frontier of Data Privacy and Ownership Structure: Tokenizing Genomics** 
 	
-	
-<!---	<details>
+	<!---	<details>
   <summary><span class='icon-right'></span> Abstract</summary><p>-->
 Biotech companies have resorted to blockchain and unregulated vehicles, such as initial coin offerings, as a cheap way of monetizing DNA while funding the company. This paper explains how biotech blockchain companies have promised investors control over genetic data but obscured other dynamics within the company ownership structure. Not only do token holders lack voting rights, but they are in a new vulnerable position: the company has possession of their genetic data. At the same time, traditional shareholders surreptitiously gain more power and control. This paper’s analysis will shed light on the relationship between shareholders who invested capital and token holders whose interests depend on the human genetic capital shared with the company and the emerging implications from this scenario. 
 <!--- </p></details>-->
@@ -28,8 +27,7 @@ Biotech companies have resorted to blockchain and unregulated vehicles, such as 
 ## Selected Publications
 
 * **DeFi—A Framework of the Automated Financial Open System, in THE TECH BOOK (E. S. Ustun, V. Villanueva Collao, C. Humbel, V. Dipla eds., 2023) forthcoming** 
-	
-	
+		
 <!---	<details>
   <summary><span class='icon-right'></span> Abstract</summary><p>-->
 DeFi, or Decentralized Finance, is the technological distribution of financial services empowered by blockchain. This alternative market deals with the same processes of traditional finance involving the creation, management, and investment of money and financial assets. However, the fundamental difference in DeFi gravitates around the multiple financial intermediaries substituted with applications in permissionless systems that automatize cryptoassets trade (a kind of digital asset). This article explores the characteristics of DeFi and the relevant players, evidencing how decentralization and disintermediation are misnomers in innovation technology in Web 3.0, the transactions, and the legal issues (and regulatory gaps) from the US perspective.  
@@ -50,6 +48,7 @@ This article illustrates how comparative law would benefit from the scientific m
 <br>
 <br>
 
+
 * **Protecting Privacy with Blockchain: When Genomics Meets DTC, European Journal of Privacy & Technology, forthcoming (2022)** 
 	
 	
@@ -63,8 +62,6 @@ The technology around genomics has moved at a swift pace while reducing the enti
 
 
 
-
 * **The New ICO Intermediaries** <a href="https://www.theitalianlawjournal.it/vw/" target="_blank">*(5 Italian Law Journal 731, 2019)*</a>   
-	
 	
 	
