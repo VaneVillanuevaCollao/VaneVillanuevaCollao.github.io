@@ -6,7 +6,7 @@ layout: default
 JSD Candidate at the <a class="a1" href="[https://law.illinois.edu/faculty-research/meet-our-jsd-candidates/]" target="_blank"> University of Illinois at Urbana-Champaign.</a> 
 
 <br>
-My primary research interests are at the intersection of law and technology, decentralized finance, blockchain, artificial intelligence, with a focus on corporate law. My secondary research interests are on comparative law and empirical methodology.  
+My primary research interests are at the intersection of law and technology with a focus on corporate law (decentralized finance, blockchain, artificial intelligence). My secondary research interests deal with comparative law and empirical methodology.  
 
 <br>
 
