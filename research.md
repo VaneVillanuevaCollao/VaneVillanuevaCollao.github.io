@@ -19,7 +19,7 @@ In this paper, I plan to argue that algorithms should be integrated into the boa
 	
 <!---	<details>
   <summary><span class='icon-right'></span> Abstract</summary><p>-->
-Biotech companies have resorted to blockchain and unregulated vehicles, such as initial coin offerings, as a cheap way of monetizing DNA while funding the company. This paper explains how biotech blockchain companies have promised investors control over genetic data but obscured other dynamics within the company ownership structure. Not only do token holders lack voting rights, but they are in a new vulnerable position: the company has possession of their genetic data. At the same time, traditional shareholders surreptitiously gain more power and control. This paper’s analysis will shed light on the relationship between shareholders who invested capital and token holders whose interests depend on the human genetic capital shared with the company and the emerging implications from this scenario.. 
+Biotech companies have resorted to blockchain and unregulated vehicles, such as initial coin offerings, as a cheap way of monetizing DNA while funding the company. This paper explains how biotech blockchain companies have promised investors control over genetic data but obscured other dynamics within the company ownership structure. Not only do token holders lack voting rights, but they are in a new vulnerable position: the company has possession of their genetic data. At the same time, traditional shareholders surreptitiously gain more power and control. This paper’s analysis will shed light on the relationship between shareholders who invested capital and token holders whose interests depend on the human genetic capital shared with the company and the emerging implications from this scenario. 
 <!--- </p></details>-->
 
 <br>
@@ -27,7 +27,29 @@ Biotech companies have resorted to blockchain and unregulated vehicles, such as 
 
 ## Selected Publications
 
+* **DeFi—A Framework of the Automated Financial Open System, in THE TECH BOOK (E. S. Ustun, V. Villanueva Collao, C. Humbel, V. Dipla eds., 2023) forthcoming** 
+	
+	
+<!---	<details>
+  <summary><span class='icon-right'></span> Abstract</summary><p>-->
+DeFi, or Decentralized Finance, is the technological distribution of financial services empowered by blockchain. This alternative market deals with the same processes of traditional finance involving the creation, management, and investment of money and financial assets. However, the fundamental difference in DeFi gravitates around the multiple financial intermediaries substituted with applications in permissionless systems that automatize cryptoassets trade (a kind of digital asset). This article explores the characteristics of DeFi and the relevant players, evidencing how decentralization and disintermediation are misnomers in innovation technology in Web 3.0, the transactions, and the legal issues (and regulatory gaps) from the US perspective.  
+<!--- </p></details>-->
 
+<br>
+<br>
+
+
+* **Empirical Methods in Comparative Law: Data Talks, COMP. L. REV. (2022) forthcoming ** 
+	
+	
+<!---	<details>
+  <summary><span class='icon-right'></span> Abstract</summary><p>-->
+This article illustrates how comparative law would benefit from the scientific method to bolster its reliability when comparing legal systems. It proposes to improve the method of comparison by creating a testable hypothesis that can help theorize and substantiate the functionalist or differentialist analysis. Empirical research would not obscure current comparative methodologies and tools but would enhance them by mapping a concrete interaction between theory and human activity. To this end, I introduce a comparative analysis example of traditional markets and cryptomarkets to uncover the elements of a successful cryptoassets sale. Finally, the paper focuses on different types of quantitative empirical legal research and methods used in legal studies and how they can be connected to comparative law. It concludes by identifying the limitations of this methodology as applied to comparative law and previewing a future of combined methods.
+
+<!--- </p></details>-->
+
+<br>
+<br>
 
 * **Protecting Privacy with Blockchain: When Genomics Meets DTC, European Journal of Privacy & Technology, forthcoming (2022)** 
 	
@@ -47,45 +69,4 @@ The technology around genomics has moved at a swift pace while reducing the enti
 	
 	
 	
-* **The New ICO Intermediaries** <a href="/assets/Bauer_Group_dynamics_and_party_switching.pdf" target="_blank">*(pdf)*</a>   <!---[[SSRN]](https://ssrn.com/abstract=3020332) -->
-	
-	
-	<details>
-  <summary><span class='icon-right'></span>Abstract </summary><p>
-	Political parties are the nexus between voters and politicians. Legislative party switching not only distorts the representativeness of electoral results but also threatens the stability of the democratic system by obfuscating the electorate. In order to design policies that restore the representativeness of the political system, it is paramount to understand the determinants behind legislators’ behavior. Using a novel dynamic panel data set, constructed by collecting more than 420,000 votes from Argentina’s House of  Representatives, this paper studies party switching and group dynamics. This work estimates the relevance of individual and party characteristics as well as peers effects, power configuration and the possibility of remaining independent inside the Chamber as key features of legislator’s decision to switch. I find that party switching is an interdependent decision that relies more on same party peer effects than in different party peer effects. Ideological Distance, loyalty to party leaders, power of the party and the legislative cycle are important determinants of party switching. Moreover, increasing reputation costs of party switching is less effective at preventing it than promoting a transparent electoral process. By exploring the motives behind the switch, I find that party switchers have a higher probability of improving their ballot position compared to non switchers, suggesting that office seeking legislators have higher incentives to switch. Additionally, party switchers changed their voting behavior in the period close to their switching meeting, whereas non-switchers’ behavior was not affected by same party switches. Lastly I find that both office seeking and ideology seeking motivations affect the decision of a legislator to switch in their term.</p></details>
-<br>
-
-
-<br>
-## Work in progress
-
-
-
-* **Establishment’s Responsiveness to Shocks: the Case of the Great Recession** <!---*([pdf](/assets/proposal.pdf))*  [[SSRN]](https://ssrn.com/abstract=3020332) -->
-*(with <a href="https://elizaforsythe.web.illinois.edu/" target="_blank">Eliza Forsythe</a>)*
-	
-	
-
-
-* **Effects of broadband access on credit invisibility and financial access in Indian Country** <!---*([pdf](/assets/proposal.pdf))* [[SSRN]](https://ssrn.com/abstract=3020332) -->
-(with <a href="https://www.donnafeir.com/" target="_blank">Donna L. Feir</a> and <a href="https://sites.google.com/prod/view/mattgregg" target="_blank">Matthew T. Gregg)
-	
-<!---	<details>
-  <summary><span class='icon-right'></span>Abstract </summary><p>
-	More than 10% of US adults do not have a credit record at one of the three nationwide credit reporting companies (Brevoort, et al 2015). They are considered “credit invisible”. Credit invisibility is more common among minority and rural populations who tend to be more financially vulnerable and may have less access to traditional forms of credit. There is evidence that access to high-speed broadband internet is associated with reduced credit invisibility (Brevoort, et al 2018). The purpose of this work is to evaluate the effects of broadband deployment on financial access and credit invisibility, with special focus on Indian Country. We leverage the roll-out of several programs to expand broadband provision among rural areas and tribal lands that were part of the American Recovery and Reinvestment Act of 2009, through several agencies (RUS, NTIA and FCC) to shed light on whether efforts to increase access to broadband also increase access to credit and engagement in financial markets.</p></details>-->
-
-<br>
-<br>
-* **Understanding the search: Best practices for the use of Google Trends** <!---*([pdf](/assets/GTrends.pdf))*  [[SSRN]](https://ssrn.com/abstract=3020332) -->
-
-
-<br>
-
-
-
-<br>
-
-<!---## Other Publications
-
-* **Municipal solid waste managment* Available [here](http://www.cepal.org/es/publicaciones/40271-la-matriz-insumo-producto-america-sur-principales-supuestos-consideraciones) (In Spanish). [Media](http://www.cepal.org/es/notas/la-cepal-ipea-publican-la-matriz-insumo-producto-america-sur)  -->
 
