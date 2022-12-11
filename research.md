@@ -29,7 +29,7 @@ The technology around genomics has moved at a swift pace while reducing the enti
 <br>
 <br>
 
-* **The New ICO Intermediaries** <a href="https://www.theitalianlawjournal.it/vw/" target="_blank">*</a> (with <a href="https://law.illinois.edu/faculty-research/faculty-profiles/verity-winship/" target="_blank">Verity Winship).
+* **The New ICO Intermediaries** <a href="https://www.theitalianlawjournal.it/vw/" *target="_blank">*</a> (with <a href="https://law.illinois.edu/faculty-research/faculty-profiles/verity-winship/" target="_blank">Verity Winship).
 
 	
 	
