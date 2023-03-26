@@ -14,7 +14,7 @@ My primary research interests are at the intersection of law and technology with
 <br>
 
 <br>
-You can find my <a href="/assets/VanessaVillanuevaCollao_CV_2022.pdf" target="_blank">CV here.</a> 
+You can find my <a href="/assets/CV_VanessaVillanueva_2023.pdf" target="_blank">CV here.</a> 
 
 <br>
 
