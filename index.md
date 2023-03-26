@@ -10,7 +10,8 @@ Research Fellow at the University of Roma Tre -  <a class="a1" href="https://sou
 <br>
 
 <br>
-My primary research interests are at the intersection of law and technology with a focus on corporate law (Corporate Technologies: Decentralized Finance, Blockchain, Artificial Intelligence). My secondary research interests deal with comparative law and empirical methodology.  
+My primary research interests are at the intersection of law and technology with a focus on corporate law (Corporate Technologies: Decentralized Finance, Blockchain, Artificial Intelligence). 
+My secondary research interests deal with comparative law and empirical methodology.  
 <br>
 
 <br>
