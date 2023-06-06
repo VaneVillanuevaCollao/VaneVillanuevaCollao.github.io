@@ -26,7 +26,7 @@ Biotech companies have resorted to blockchain and unregulated vehicles, such as 
 
 ## Selected Publications
 
-* **DeFi—A Framework of the Automated Financial Open System, in THE TECH BOOK (E. S. Ustun, V. Villanueva Collao, C. Humbel, V. Dipla eds., 2023) forthcoming** 
+* **DeFi—A Framework of the Automated Financial Open System, forthcoming** 
 		
 <!---	<details>
   <summary><span class='icon-right'></span> Abstract</summary><p>-->
@@ -37,7 +37,7 @@ DeFi, or Decentralized Finance, is the technological distribution of financial s
 <br>
 
 
-* **Empirical Methods in Comparative Law: Data Talks**, <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4407360" target="_blank">*(12/2 COMP. L. REV. 55)*, Special Issue: Rescuing Comparative Law and Economics? Exploring Successes and Failures of an Interdisciplinary Experiment (G. Bellantuono ed. 2023)</a> 
+* **Empirical Methods in Comparative Law: Data Talks**, <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4407360" target="_blank">*12/2 COMP. L. REV. 55, Special Issue: Rescuing Comparative Law and Economics? Exploring Successes and Failures of an Interdisciplinary Experiment (G. Bellantuono ed. 2023)</a> 
 		
 <!---	<details>
   <summary><span class='icon-right'></span> Abstract</summary><p>-->
