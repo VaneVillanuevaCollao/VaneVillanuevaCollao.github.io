@@ -26,7 +26,7 @@ Biotech companies have resorted to blockchain and unregulated vehicles, such as 
 
 ## Selected Publications
 
-* **DeFi—A Framework of the Automated Financial Open System, forthcoming** 
+* **DeFi—A Framework of the Automated Financial Open System**, <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4419373" target="_blank">SSRN.</a> 
 		
 <!---	<details>
   <summary><span class='icon-right'></span> Abstract</summary><p>-->
@@ -37,7 +37,7 @@ DeFi, or Decentralized Finance, is the technological distribution of financial s
 <br>
 
 
-* **Empirical Methods in Comparative Law: Data Talks**, <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4407360" target="_blank">*12/2 COMP. L. REV. 55, Special Issue: Rescuing Comparative Law and Economics? Exploring Successes and Failures of an Interdisciplinary Experiment (G. Bellantuono ed. 2023)</a> 
+* **Empirical Methods in Comparative Law: Data Talks**, <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4407360" target="_blank">12/2 COMP. L. REV. 55, Special Issue: Rescuing Comparative Law and Economics? Exploring Successes and Failures of an Interdisciplinary Experiment (G. Bellantuono ed., 2023).</a> 
 		
 <!---	<details>
   <summary><span class='icon-right'></span> Abstract</summary><p>-->
@@ -49,7 +49,7 @@ This article illustrates how comparative law would benefit from the scientific m
 <br>
 
 
-* **Protecting Privacy with Blockchain: When Genomics Meets DTC, European Journal of Privacy & Technology, forthcoming (2022)** 
+* **Protecting Privacy with Blockchain: When Genomics Meets DTC, European Journal of Privacy & Technology, forthcoming (2023)** 
 	
 <!---	<details>
   <summary><span class='icon-right'></span> Abstract</summary><p>-->
