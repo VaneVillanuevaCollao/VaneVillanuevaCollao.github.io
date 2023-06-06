@@ -37,7 +37,7 @@ DeFi, or Decentralized Finance, is the technological distribution of financial s
 <br>
 
 
-* **Empirical Methods in Comparative Law: Data Talks**, <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4407360" target="_blank">*(12/2 COMP. L. REV. 55)*, Special Issue: Rescuing Comparative Law and Economics? Exploring Successes and Failures of an Interdisciplinary Experiment (G. Bellantuono ed. 2023)**</a>* 
+* **Empirical Methods in Comparative Law: Data Talks**, <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4407360" target="_blank">*(12/2 COMP. L. REV. 55)*, Special Issue: Rescuing Comparative Law and Economics? Exploring Successes and Failures of an Interdisciplinary Experiment (G. Bellantuono ed. 2023)</a> 
 		
 <!---	<details>
   <summary><span class='icon-right'></span> Abstract</summary><p>-->
