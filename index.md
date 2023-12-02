@@ -11,7 +11,6 @@ Research Fellow at the University of Roma Tre -  <a class="a1" href="https://sou
 <br>
 My foremost research interests are at the intersection of law and technology, with a particular focus on corporate law. My secondary interests are comparative law, contracts, and empirical methodologies in law.
 <br> 
-
 I joined the European University Institute of Fiesole (Italy) as a Max Weber Fellow in Law. The project I'm bringing to the MW fellowship deals with Models of Governance for Accessible Cryptomarkets (Decentralized Governance), studying the role of wireless investors (cryptoasset holders) and how dividing economic rights from voting rights can incentivize active participation in the organization and further reduce the collective action problem within cryptomarkets. To uncover this, I plan to run a lab experiment.
 <br>
 
