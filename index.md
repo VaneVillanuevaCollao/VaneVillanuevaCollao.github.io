@@ -3,7 +3,7 @@ layout: default
 ---
 
 
-JSD Candidate at the <a class="a1" href="https://me.eui.eu/vanessa-villanueva-collao/" target="_blank"> European University Institute.</a> 
+Max Weber Fellow at the <a class="a1" href="https://me.eui.eu/vanessa-villanueva-collao/" target="_blank"> European University Institute.</a> 
 <br>
 <br>
 Research Fellow at the University of Roma Tre -  <a class="a1" href="https://southeugooglechair.com/" target="_blank">  South EU Google Data Governance Chair Project.</a>
