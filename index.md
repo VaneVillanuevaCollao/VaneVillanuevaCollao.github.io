@@ -8,7 +8,6 @@ Max Weber Fellow at the <a class="a1" href="https://me.eui.eu/vanessa-villanueva
 <br>
 Research Fellow at the University of Roma Tre -  <a class="a1" href="https://southeugooglechair.com/" target="_blank">  South EU Google Data Governance Chair Project.</a>
 <br>
-
 <br>
 My foremost research interests are at the intersection of law and technology, with a particular focus on corporate law. My secondary interests are comparative law, contracts, and empirical methodologies in law.
 
