@@ -26,7 +26,7 @@ Contact info
 
 <i class="fa fa-home"></i> EUI
 
-Badia Fiesolana - Via dei Roccettini 9. 
+Badia Fiesolana - Via dei Roccettini 9 
 <br>
 Office no. BF426
 <br>
