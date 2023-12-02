@@ -21,7 +21,7 @@ h6 {
 }
 h2, h4{
   font-weight: 700;
-  color: #13294B;
+  color: #2581c4;
 }
 
 .a1 {
@@ -34,8 +34,8 @@ a{
 
 
 .navbar{
-    background-color: #13294B;
-    border-color: #13294B;
+    background-color: #2581c4;
+    border-color: #2581c4;
 }
 
 
@@ -53,8 +53,8 @@ a{
 
 
 .navbar-color{
-    background-color: #13294B;;
-    border-color: #13294B;
+    background-color: #2581c4;;
+    border-color: #2581c4;
     font-color: #FF5F0F;
     color: #FF5F0F;
 }
@@ -78,7 +78,7 @@ a{
 
 
 .panel-default > .panel-heading {
-  background-color: #13294B;
+  background-color: #2581c4;
   color: #FFF;
 
 }
@@ -89,7 +89,7 @@ a{
 }
 
 .navbar .navbar-nav > li > a:hover {
-  color: #13294B;
+  color: #2581c4;
 }
 
 .collapse, .navbar-collapse{ color: #831F82; }
