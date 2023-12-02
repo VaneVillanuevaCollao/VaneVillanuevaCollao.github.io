@@ -28,7 +28,9 @@ Contact info
 
 <i class="fa fa-home"></i>EUI
 
-Badia Fiesolana - Via dei Roccettini 9. Office no. BF426
+Badia Fiesolana - Via dei Roccettini 9. 
+<br>
+Office no. BF426
 <br>
 50014 - San Domenico di Fiesole (FI)
 <br>
