@@ -3,6 +3,33 @@ layout: secondary_pages
 ---
 
 ## Work in Progress
+* **Decentralized Governance: Models for Accessible Cryptomarkets** 
+
+<!---	<details>
+  <summary><span class='icon-right'></span> Abstract</summary><p>-->
+In blockchain, large investors pervasively hold the concentration of power in decentralized organizations due to vote buying or acquisition of voting rights. Retail investors see cryptoassets as yield and are not interested in exercising their voting rights because coordination is still missing. However, instances of aggregation among younger generations have particularly affected corporate governance dynamics: their ability to coordinate, as demonstrated during the GameStop/Robinhood Saga. This proposal aims to exemplify how retail investors’ voting rights in decentralized organizations can be incentivized through a lab experiment on cryptoinvestors’ behavior.
+<!--- </p></details>-->
+<br>
+<br>
+
+* **The Functions of Cryptointermediaries** 
+
+<!---	<details>
+  <summary><span class='icon-right'></span> Abstract</summary><p>-->
+In this work, I aim to introduce blockchain technological foundations, the role of code, economic incentives, and the structure and features needed to understand the emergent intermediary functions in Decentralized Finance (DeFi). This paper debunks the myths of complete decentralization of processes and disintermediation claims, uncovering the persistence of intermediaries in DeFi. By defining cryptointermediaries, it becomes possible to analyze and compare their function in DeFi with the one performed by intermediaries in traditional finance. Through interviews with blockchain companies and case studies, this work explores the structure of the cryptoenterprise, the actors that interact with cryptointermediaries, and the absence of internal governance mechanisms. This absence calls for a need for new types of financial gatekeepers who would be known as cryptogatekeepers.
+<!--- </p></details>-->
+<br>
+<br>
+
+* **Cryptogatekeepers as a Response to Conflicts of Interest in Decentralized Finance** 
+
+<!---	<details>
+  <summary><span class='icon-right'></span> Abstract</summary><p>-->
+This work aims to contribute to the foundational understanding of Decentralized Finance by analyzing the conflicts of interest that emerge from the structure of the cryptoenterprise. It explores cryptogatepeekers as a source for external corporate governance. Cryptogatekeepers could enhance market fairness by preventing misconduct and improving the internal governance of cryptoenterprises. To this end, this work elaborates on the best practices to mitigate conflicts of interest in DeFi. With the performance of specific functions and duty design, cryptogatekeepers in DeFi could potentially become institutional stabilizers and would be particularly useful given the interconnected cross-border nature of these transactions. It further illustrates how existing regulatory frameworks, reputation, and gatekeeping theories could enforce these best practices.   
+<!--- </p></details>-->
+
+<br>
+<br>
 
 * **Data Governance Firms in Corporate Boardroomss** 
 
