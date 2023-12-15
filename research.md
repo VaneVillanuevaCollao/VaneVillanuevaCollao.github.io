@@ -36,7 +36,15 @@ DeFi, or Decentralized Finance, is the technological distribution of financial s
 <br>
 <br>
 
+* **Protecting Privacy with Blockchain: When Genomics Meets DTC, European Journal of Privacy & Technology, forthcoming (2023)** 
+	
+<!---	<details>
+  <summary><span class='icon-right'></span> Abstract</summary><p>-->
+The technology around genomics has moved at a swift pace while reducing the entire sequencing costs. Biotech advancement increased the demand for gene sequencing services and data storage, creating privacy risks and making de-identification difficult. To mitigate those risks, genomic startups have turned to cryptographic technologies like Blockchain. However, Blockchain is not a panacea, and privacy issues in genomics are a concern that is hardly addressed from a bioethical or philosophical perspective. The most challenging obstacle plaintiffs face in privacy lawsuits is assessing the injury–the connection between privacy threats and concrete harms. This paper explains why genomic companies that use Blockchain expose their users to specific harms that fall outside agencies and regulations radars by providing some examples of injuries-in-fact. 
+<!--- </p></details>-->
 
+<br>
+<br>
 * **Empirical Methods in Comparative Law: Data Talks**, <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4407360" target="_blank">12/2 COMP. L. REV. 55, Special Issue: Rescuing Comparative Law and Economics? Exploring Successes and Failures of an Interdisciplinary Experiment (G. Bellantuono ed., 2023).</a> 
 		
 <!---	<details>
@@ -48,15 +56,5 @@ This article illustrates how comparative law would benefit from the scientific m
 <br>
 <br>
 
-
-* **Protecting Privacy with Blockchain: When Genomics Meets DTC, European Journal of Privacy & Technology, forthcoming (2023)** 
-	
-<!---	<details>
-  <summary><span class='icon-right'></span> Abstract</summary><p>-->
-The technology around genomics has moved at a swift pace while reducing the entire sequencing costs. Biotech advancement increased the demand for gene sequencing services and data storage, creating privacy risks and making de-identification difficult. To mitigate those risks, genomic startups have turned to cryptographic technologies like Blockchain. However, Blockchain is not a panacea, and privacy issues in genomics are a concern that is hardly addressed from a bioethical or philosophical perspective. The most challenging obstacle plaintiffs face in privacy lawsuits is assessing the injury–the connection between privacy threats and concrete harms. This paper explains why genomic companies that use Blockchain expose their users to specific harms that fall outside agencies and regulations radars by providing some examples of injuries-in-fact. 
-<!--- </p></details>-->
-
-<br>
-<br>
 
 * **The New ICO Intermediaries** <a href="https://www.theitalianlawjournal.it/vw/" target="_blank">*(5 Italian Law Journal 731, 2019)*</a> *(with <a href="https://law.illinois.edu/faculty-research/faculty-profiles/verity-winship/" target="_blank">Verity Winship)</a>*
