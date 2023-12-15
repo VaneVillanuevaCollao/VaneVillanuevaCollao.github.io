@@ -2,7 +2,7 @@
 layout: secondary_pages
 ---
 
-## Works in Progress
+## Work in Progress
 
 * **Data Governance Firms in Corporate Boardroomss** 
 
@@ -45,12 +45,12 @@ The technology around genomics has moved at a swift pace while reducing the enti
 
 <br>
 <br>
+
 * **Empirical Methods in Comparative Law: Data Talks**, <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4407360" target="_blank">12/2 COMP. L. REV. 55, Special Issue: Rescuing Comparative Law and Economics? Exploring Successes and Failures of an Interdisciplinary Experiment (G. Bellantuono ed., 2023).</a> 
 		
 <!---	<details>
   <summary><span class='icon-right'></span> Abstract</summary><p>-->
 This article illustrates how comparative law would benefit from the scientific method to bolster its reliability when comparing legal systems. It proposes to improve the method of comparison by creating a testable hypothesis that can help theorize and substantiate the functionalist or differentialist analysis. Empirical research would not obscure current comparative methodologies and tools but would enhance them by mapping a concrete interaction between theory and human activity. To this end, I introduce a comparative analysis example of traditional markets and cryptomarkets to uncover the elements of a successful cryptoassets sale. Finally, the paper focuses on different types of quantitative empirical legal research and methods used in legal studies and how they can be connected to comparative law. It concludes by identifying the limitations of this methodology as applied to comparative law and previewing a future of combined methods.
-
 <!--- </p></details>-->
 
 <br>
