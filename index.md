@@ -16,7 +16,7 @@ I joined the European University Institute of Fiesole (Italy) as a Max Weber Fel
 <br>
 
 <br>
-You can find my <a href="/assets/VanessaVillanuevaCollaoCV_Nov_2023.pdf" target="_blank">CV here.</a> 
+You can find my <a href="/assets/VanessaVillanuevaCollaoCV_Dec_2023.pdf" target="_blank">CV here.</a> 
 
 <br>
 
