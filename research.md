@@ -53,7 +53,7 @@ Biotech companies have resorted to blockchain and unregulated vehicles, such as 
 
 ## Selected Publications
 
-* **DeFi—A Framework of the Automated Financial Open System, 26 Tulane Journal of Technology and Intellectual Property __ (2024)**, <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4419373" target="_blank">SSRN.</a> 
+* **DeFi—A Framework of the Automated Financial Open System, 26 Tulane Journal of Technology and Intellectual Property __ (2024)**, <a href="https://tlsstore.law.tulane.edu/Product/defi-a-framework-of-the-automated-financial-system" target="_blank">Tulane Store</a> 
 		
 <!---	<details>
   <summary><span class='icon-right'></span> Abstract</summary><p>-->
@@ -63,7 +63,17 @@ DeFi, or Decentralized Finance, is the technological distribution of financial s
 <br>
 <br>
 
-* **Protecting Privacy with Blockchain: When Genomics Meets DTC, European Journal of Privacy & Technology, forthcoming (2023)** 
+* **Navigating the Transatlantic AI Landscape: The EU Artificial Intelligence Act and its Ripple Effect on the US (2024)** <a href="https://www.medialaws.eu/rivista/navigating-the-transatlantic-ai-landscape-the-eu-artificial-intelligence-act-and-its-ripple-effect-on-the-us/"_blank">MediaLaws</a> 
+
+<!---	<details>
+  <summary><span class='icon-right'></span> Abstract</summary><p>-->
+The op-ed explores the impact of the European Union’s Artificial Intelligence Act (AIA) on the US digital market. The AIA­ – aimed at establishing ethical and responsible AI governance – has sparked debate, particularly in global tech circles. The article delves into three key areas of concern for US firms: challenges accessing and servicing the EU market, disclosures of proprietary information, and constraints on innovation involving transatlantic cooperation. It argues that while the AIA promotes a human-centered approach and addresses ethical concerns, its stringent regulations may inadvertently impede innovation, hinder global collaboration, and create regulatory disparities between the EU and the US. Finally, it suggests that finding a balance between addressing AI-related risks and fostering an environment conducive to technological advancement is crucial for sustaining growth and collaboration in the global tech industry.
+<!--- </p></details>-->
+
+<br>
+<br>
+
+* **Protecting Privacy with Blockchain: When Genomics Meets DTC, European Journal of Privacy & Technology, forthcoming (2025)** 
 	
 <!---	<details>
   <summary><span class='icon-right'></span> Abstract</summary><p>-->
