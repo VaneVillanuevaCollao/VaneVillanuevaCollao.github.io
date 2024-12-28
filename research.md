@@ -53,7 +53,7 @@ Biotech companies have resorted to blockchain and unregulated vehicles, such as 
 
 ## Selected Publications
 
-* **DeFi—A Framework of the Automated Financial Open System, 26 Tulane Journal of Technology and Intellectual Property __ (2024)**, <a href="https://tlsstore.law.tulane.edu/Product/defi-a-framework-of-the-automated-financial-system" target="_blank">Tulane Store</a> 
+* **DeFi—A Framework of the Automated Financial Open System, 26 Tulane Journal of Technology and Intellectual Property 75 (2024)**, <a href="https://tlsstore.law.tulane.edu/Product/defi-a-framework-of-the-automated-financial-system" target="_blank">Tulane Store</a> 
 		
 <!---	<details>
   <summary><span class='icon-right'></span> Abstract</summary><p>-->
