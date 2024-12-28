@@ -3,10 +3,10 @@ layout: default
 ---
 
 
-Academic Fellow at -  <a class="a1" href="https://faculty.unibocconi.eu/vanessaantuanettevillanuevacollao/" target="_blank">  Bocconi University.</a>
+Academic Fellow at  <a class="a1" href="https://faculty.unibocconi.eu/vanessaantuanettevillanuevacollao/" target="_blank">  Bocconi University.</a>
 <br>
 <br>
-Visiting Fellow at the Max Weber Programme for Postdoctoral Studies <a class="a1" href="https://me.eui.eu/vanessa-villanueva-collao/" target="_blank"> European University Institute.</a> 
+Visiting Fellow at the Max Weber Programme for Postdoctoral Studies - <a class="a1" href="https://me.eui.eu/vanessa-villanueva-collao/" target="_blank"> European University Institute.</a> 
 <br>
 <br>
 
