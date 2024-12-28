@@ -63,7 +63,7 @@ DeFi, or Decentralized Finance, is the technological distribution of financial s
 <br>
 <br>
 
-* **Navigating the Transatlantic AI Landscape: The EU Artificial Intelligence Act and its Ripple Effect on the US (2024)** <a href="https://www.medialaws.eu/rivista/navigating-the-transatlantic-ai-landscape-the-eu-artificial-intelligence-act-and-its-ripple-effect-on-the-us/"_blank">MediaLaws</a> 
+* **Navigating the Transatlantic AI Landscape: The EU Artificial Intelligence Act and its Ripple Effect on the US (2024)** <a href="https://www.medialaws.eu/rivista/navigating-the-transatlantic-ai-landscape-the-eu-artificial-intelligence-act-and-its-ripple-effect-on-the-us/" target="_blank">MediaLaws</a> 
 
 <!---	<details>
   <summary><span class='icon-right'></span> Abstract</summary><p>-->
