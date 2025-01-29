@@ -18,7 +18,7 @@ My work integrates comparative legal analysis and sophisticated empirical method
 <br>
 
 <br>
-You can find my <a href="/assets/VanessaVillanuevaCollao_CV_December_27_2024.pdf" target="_blank">CV here.</a> 
+You can find my <a href="/assets/VanessaVillanuevaCollaoCV_Jan_29_2025.pdf" target="_blank">CV here.</a> 
 
 <br>
 
