@@ -7,7 +7,7 @@ body {
   font-size: 20px;
   padding: 50px;
   -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;.
+  -moz-osx-font-smoothing: grayscale;
 }
 
 
@@ -25,7 +25,7 @@ h2, h4{
 }
 
 .a1 {
-  color: #8A6A000;
+  color: #8A6A00;
 }
 
 a{
@@ -53,7 +53,7 @@ a{
 
 
 .navbar-color{
-    background-color: #FFD500;;
+    background-color: #FFD500;
     border-color: #FFD500;
     font-color: #004676;
     color: #000;
