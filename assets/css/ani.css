@@ -294,17 +294,20 @@ img.resize {
     color: #6F5500;
 }
 
-/* General links in page content */
+/* Links in the main content */
 .col-md-9 a {
-    color: #000;
-    text-decoration: underline;
-    text-decoration-color: #C79A00;
-    text-decoration-thickness: 2px;
+    color: #000 !important;
+    text-decoration: underline !important;
     text-underline-offset: 3px;
-    font-weight: 500;
+    text-decoration-thickness: 2px;
 }
 
 .col-md-9 a:hover {
-    color: #8A6A00;
-    text-decoration-color: #8A6A00;
+    color: #8A6A00 !important;
+    text-decoration: underline !important;
+}
+
+.col-md-9 a:visited {
+    color: #000 !important;
+    text-decoration: underline !important;
 }
