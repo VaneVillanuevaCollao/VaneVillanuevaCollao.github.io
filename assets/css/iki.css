@@ -211,29 +211,4 @@ img.resize{
    border-left-color: #000;
 }
 
-/* FINAL OVERRIDES */
-
-img.resize,
-.col-md-3 img,
-img[src*="assets/images"] {
-  border-radius: 0 !important;
-  width: 85% !important;
-  height: auto !important;
-  object-fit: cover !important;
-}
-
-.navbar,
-.navbar-color,
-.navbar-inverse,
-.navbar-fixed-top {
-  background: #FFD500 !important;
-  background-color: #FFD500 !important;
-  border-color: #FFD500 !important;
-}
-
-.navbar-inverse .navbar-nav > li > a,
-.navbar-inverse .navbar-brand,
-.navbar-inverse .navbar-text {
-  color: #000 !important;
-}
 
