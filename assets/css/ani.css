@@ -21,11 +21,11 @@ h6 {
 }
 h2, h4{
   font-weight: 700;
-  color: #2581c4;
+  color: #FFD500;
 }
 
 .a1 {
-  color: #004676;
+  color: #000;
 }
 
 a{
@@ -34,8 +34,8 @@ a{
 
 
 .navbar{
-    background-color: #2581c4;
-    border-color: #2581c4;
+    background-color: #FFD500;
+    border-color: #FFD500;
 }
 
 
@@ -53,10 +53,10 @@ a{
 
 
 .navbar-color{
-    background-color: #2581c4;;
-    border-color: #2581c4;
+    background-color: #FFD500;;
+    border-color: #FFD500;
     font-color: #004676;
-    color: #004676;
+    color: #000;
 }
 
 .nav > li > a:hover,
@@ -73,7 +73,7 @@ a{
   color: #FFF;
 }
 .navbar-inverse .navbar-nav > li > a {
-  color: #FFF;
+  color: #000;
 }
 
 
@@ -89,7 +89,7 @@ a{
 }
 
 .navbar .navbar-nav > li > a:hover {
-  color: #2581c4;
+  color: #FFD500;
 }
 
 .collapse, .navbar-collapse{ color: #831F82; }
@@ -157,11 +157,13 @@ img.displayed {
     margin-right: auto }
 
 img.resize{
-    width:80%; /* you can use % */
-    height: 80%;    
+    width:85%; /* you can use % */
+    height: auto;    
     /* height: 200px; 
     width: 200px;*/
-    border-radius: 50%;
+    border-radius: 0;
+    display: block;
+  margin: 0auto;
 }
 
 
