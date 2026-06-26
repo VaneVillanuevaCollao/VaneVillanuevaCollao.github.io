@@ -293,3 +293,18 @@ img.resize {
 .col-md-9 a:active {
     color: #6F5500;
 }
+
+/* General links in page content */
+.col-md-9 a {
+    color: #000;
+    text-decoration: underline;
+    text-decoration-color: #C79A00;
+    text-decoration-thickness: 2px;
+    text-underline-offset: 3px;
+    font-weight: 500;
+}
+
+.col-md-9 a:hover {
+    color: #8A6A00;
+    text-decoration-color: #8A6A00;
+}
