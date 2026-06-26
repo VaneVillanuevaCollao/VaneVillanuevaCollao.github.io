@@ -276,3 +276,21 @@ img.resize {
     background-color: #D4AA00 !important;
     color: #000 !important;
 }
+/* Links in the main content */
+.col-md-9 a {
+    color: #8A6A00 !important;
+    font-weight: 600;
+    text-decoration: underline;
+}
+
+.col-md-9 a:hover {
+    color: #C79A00 !important;
+}
+
+.col-md-9 a:visited {
+    color: #8A6A00 !important;
+}
+
+.col-md-9 a:active {
+    color: #6F5500 !important;
+}
