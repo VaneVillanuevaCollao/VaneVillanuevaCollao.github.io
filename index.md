@@ -3,7 +3,7 @@ layout: default
 ---
 
 
-Senior Research Fellow in Fintech at  <a class="a1" href="https://www.unsw.edu.au/staff/vanessa-villanueva-collao/" target="_blank">  UNSW, Sydney.</a>
+Senior Research Fellow in Fintech at  <a class="a1" href="https://www.unsw.edu.au/staff/vanessa-villanueva-collao/" target="_blank">  UNSW, Sydney. School of Private and Commercial Law</a>
 <br>
 <br>
 Financial Data Revolution Team <a class="a1" href="https://fintechrevn.org/our-team/" target="_blank"> Australian Research Council Laureate Project.</a> 
