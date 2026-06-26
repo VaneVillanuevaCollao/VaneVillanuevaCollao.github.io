@@ -44,6 +44,17 @@ Biotech companies have resorted to blockchain and unregulated vehicles, such as 
 
 ## Selected Publications
 
+* **Cryptoexchanges as Imperfect Cryptogatekeepers in Decentralized Finance (American Business Law Journal, forthcoming)** *
+<!---	<details>
+  <summary><span class='icon-right'></span> Abstract</summary><p>-->
+I argue that cryptoexchanges have become critical market infrastructures while avoiding many of the governance obligations historically associated with exchange regulation. A companion article, Cryptoauditors, examines the emergence of specialized auditing firms that provide verification services in technologically complex markets. In Cryptogatekeepers as a Response to Conflicts of Interest in Decentralized Finance (Northwestern J. Tech. Intell. Prop.), I develop a theoretical framework explaining how private governance actors can partially compensate for the absence of traditional institutional safeguards.
+
+Collectively, this work demonstrates that technological systems redistribute governance functions rather than eliminate them and provides a foundation for regulatory approaches that preserve accountability while supporting innovation.
+<!--- </p></details>-->
+
+<br>
+<br>
+
 * **Cryptogatekeepers as a Response to Conflicts of Interest in Decentralized Finance, 23 Northwestern Journal of Technology and Intellectual Property 435 (2026)**, <a href="https://scholarlycommons.law.northwestern.edu/njtip/vol23/iss3/1/=" target="_blank">NJTIP</a> 
 
 <!---	<details>
