@@ -30,6 +30,7 @@ Contact info
 <i class="fa fa-home"></i> UNSW
 
 Law and Justice Building, 
+<br>
 Office 307D F8 Union Rd, 
 <br>
 Kensington NSW 2052, Sydney
