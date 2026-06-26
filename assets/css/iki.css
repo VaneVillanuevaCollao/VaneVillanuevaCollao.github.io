@@ -21,7 +21,7 @@ h6 {
 }
 h2, h4{
   font-weight: 700;
-  color: #af2433;
+  color: #FFD500;
 }
 
 .a1 {
@@ -29,13 +29,13 @@ h2, h4{
 }
 
 a{
-  color: #af2433;
+  color: #FFD500;
 }
 
 
 .navbar{
-    background-color: #af2433;
-    border-color: #af2433;
+    background-color: #FFD500;
+    border-color: #FFD500;
 }
 
 
@@ -53,7 +53,7 @@ a{
 
 
 .navbar-color{
-    background-color: #af2433;;
+    background-color: #FD500;;
     border-color: #E87722;
     font-color: #E87722;
     color: #E87722;
@@ -66,20 +66,20 @@ a{
 }
 
 .navbar-inverse .navbar-brand {
-  color: #FFF;
+  color: #000;
 }
 
 .navbar-inverse .navbar-text {
-  color: #FFF;
+  color: #000;
 }
 .navbar-inverse .navbar-nav > li > a {
-  color: #FFF;
+  color: #000;
 }
 
 
 .panel-default > .panel-heading {
-  background-color: #af2433;
-  color: #FFF;
+  background-color: #FFD500;
+  color: #000;
 
 }
 
