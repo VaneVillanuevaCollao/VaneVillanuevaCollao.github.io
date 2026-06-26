@@ -53,10 +53,10 @@ a{
 
 
 .navbar-color{
-    background-color: #FD500;;
-    border-color: #E87722;
+    background-color: #FFD500;;
+    border-color: #FFD500;
     font-color: #E87722;
-    color: #E87722;
+    color: #000;
 }
 
 .nav > li > a:hover,
