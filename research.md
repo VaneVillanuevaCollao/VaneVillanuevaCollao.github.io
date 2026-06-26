@@ -22,7 +22,7 @@ In this work, I aim to introduce blockchain technological foundations, the role 
 <br>
 
 
-* **Data Governance Firms in Corporate Boardroomss** 
+* **Data Governance Firms in Corporate Boardrooms** 
 
 <!---	<details>
   <summary><span class='icon-right'></span> Abstract</summary><p>-->
@@ -44,12 +44,11 @@ Biotech companies have resorted to blockchain and unregulated vehicles, such as 
 
 ## Selected Publications
 
-* **Cryptoexchanges as Imperfect Cryptogatekeepers in Decentralized Finance (American Business Law Journal, forthcoming)** *
+* **Cryptoexchanges as Imperfect Cryptogatekeepers in Decentralized Finance (American Business Law Journal, forthcoming)** 
 <!---	<details>
   <summary><span class='icon-right'></span> Abstract</summary><p>-->
-I argue that cryptoexchanges have become critical market infrastructures while avoiding many of the governance obligations historically associated with exchange regulation. A companion article, Cryptoauditors, examines the emergence of specialized auditing firms that provide verification services in technologically complex markets. In Cryptogatekeepers as a Response to Conflicts of Interest in Decentralized Finance (Northwestern J. Tech. Intell. Prop.), I develop a theoretical framework explaining how private governance actors can partially compensate for the absence of traditional institutional safeguards.
+This article challenges the assumption that decentralized finance eliminates intermediaries, arguing instead that cryptoexchanges transform and reconcentrate intermediation. It demonstrates that cryptoexchanges perform many of the governance and market functions traditionally associated with stock exchanges while operating outside comparable regulatory frameworks. By conceptualizing cryptoexchanges as imperfect cryptogatekeepers, the article explains how re-intermediation generates new conflicts of interest and governance challenges, and proposes a framework for strengthening accountability and market integrity in digital financial markets.
 
-Collectively, this work demonstrates that technological systems redistribute governance functions rather than eliminate them and provides a foundation for regulatory approaches that preserve accountability while supporting innovation.
 <!--- </p></details>-->
 
 <br>
