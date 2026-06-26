@@ -61,12 +61,12 @@ a{
 
 .nav > li > a:hover,
 .nav > li > a:focus {
-  text-decoration: #004676;
-  background-color: #004676;
+  text-decoration: none;
+  background-color: #D4AA00;
 }
 
 .navbar-inverse .navbar-brand {
-  color: #FFF;
+  color: #000;
 }
 
 .navbar-inverse .navbar-text {
@@ -89,7 +89,7 @@ a{
 }
 
 .navbar .navbar-nav > li > a:hover {
-  color: #FFD500;
+  color: #D4AA00;
 }
 
 .collapse, .navbar-collapse{ color: #831F82; }
