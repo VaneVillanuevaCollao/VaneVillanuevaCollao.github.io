@@ -231,32 +231,7 @@ img.resize{
     content: "\25B6";
 }
 
-/* FINAL OVERRIDE */
 
-a, .a1 {
-  color: #000 !important;
-}
-
-.navbar,
-.navbar-color,
-.navbar-inverse,
-.panel-default > .panel-heading {
-  background-color: #FFD500 !important;
-  border-color: #FFD500 !important;
-  color: #000 !important;
-}
-
-.navbar-inverse .navbar-nav > li > a {
-  color: #000 !important;
-}
-
-img.resize {
-  width: 85% !important;
-  height: auto !important;
-  border-radius: 0 !important;
-  display: block !important;
-  margin: 0 auto !important;
-}
 
 /* FINAL OVERRIDE */
 a, .a1 {
@@ -284,4 +259,16 @@ img.resize {
   border-radius: 0 !important;
   display: block !important;
   margin: 0 auto !important;
+}
+/* Current page (clicked page) */
+#active > a {
+    background-color: #C79A00 !important;
+    color: #000 !important;
+    font-weight: 700;
+}
+
+/* Hover effect */
+.navbar-inverse .navbar-nav > li > a:hover {
+    background-color: #D4AA00 !important;
+    color: #000 !important;
 }
