@@ -3,10 +3,10 @@ layout: default
 ---
 
 
-Academic Fellow at  <a class="a1" href="https://faculty.unibocconi.eu/vanessaantuanettevillanuevacollao/" target="_blank">  Bocconi University.</a>
+Senior Research Fellow in Fintech at  <a class="a1" href="https://www.unsw.edu.au/staff/vanessa-villanueva-collao/" target="_blank">  UNSW, Sydney.</a>
 <br>
 <br>
-Visiting Fellow at the Max Weber Programme for Postdoctoral Studies - <a class="a1" href="https://me.eui.eu/vanessa-villanueva-collao/" target="_blank"> European University Institute.</a> 
+Financial Data Revolution Team <a class="a1" href="https://fintechrevn.org/our-team/" target="_blank"> Australian Research Council Laureate Project.</a> 
 <br>
 <br>
 
@@ -18,7 +18,7 @@ My work integrates comparative legal analysis and sophisticated empirical method
 <br>
 
 <br>
-You can find my <a href="/assets/VanessaVillanuevaCollaoCV_Jan_29_2025.pdf" target="_blank">CV here.</a> 
+You can find my <a href="/assets/CV_2026_VVC.pdf" target="_blank">CV here.</a> 
 
 <br>
 
@@ -27,13 +27,14 @@ Contact info
 <br>
 
 
-<i class="fa fa-home"></i> EUI
+<i class="fa fa-home"></i> UNSW
 
-Badia Fiesolana - Via dei Roccettini 9 
+Law and Justice Building, 
+Office 307D F8 Union Rd, 
 <br>
-50014 - San Domenico di Fiesole (FI)
+Kensington NSW 2052, Sydney
 <br>
-Italy
+Australia
 
 
 
