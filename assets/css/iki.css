@@ -141,13 +141,13 @@ img.displayed {
     margin-right: auto }
 
 img.resize{
-    width:85%; /* you can use % */
-    height: auto;    
+    width:85% !important; /* you can use % */
+    height: auto !important;    
     /* height: 200px; 
     width: 200px;*/
-    border-radius: 6px;
-  display: block;
-  margin: 0 auto;
+    border-radius: 0!important;
+  display: block !important;
+  margin: 0 auto !important;
 }
 
 
