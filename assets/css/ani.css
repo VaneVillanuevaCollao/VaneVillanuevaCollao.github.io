@@ -264,12 +264,7 @@ img.resize {
   display: block !important;
   margin: 0 auto !important;
 }
-/* Current page (clicked page) */
-#active > a {
-    background-color: #C79A00 !important;
-    color: #000 !important;
-    font-weight: 700;
-}
+
 
 /* Hover effect */
 .navbar-inverse .navbar-nav > li > a:hover {
