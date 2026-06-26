@@ -29,7 +29,7 @@ Contact info
 
 <i class="fa fa-home"></i> UNSW
 
-Law and Justice Building, 
+Law and Justice Building 
 <br>
 Office 307D F8 Union Rd, 
 <br>
