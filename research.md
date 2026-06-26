@@ -44,7 +44,7 @@ Biotech companies have resorted to blockchain and unregulated vehicles, such as 
 
 ## Selected Publications
 
-* **Cryptogatekeepers as a Response to Conflicts of Interest in Decentralized Finance, 23 Northwestern Jounral of Technology and Intellectual Property 435 (2026)**, <a href="https://scholarlycommons.law.northwestern.edu/njtip/vol23/iss3/1/="_blank">NJTIP</a> 
+* **Cryptogatekeepers as a Response to Conflicts of Interest in Decentralized Finance, 23 Northwestern Journal of Technology and Intellectual Property 435 (2026)**, <a href="https://scholarlycommons.law.northwestern.edu/njtip/vol23/iss3/1/=" target="_blank">NJTIP</a> 
 
 <!---	<details>
   <summary><span class='icon-right'></span> Abstract</summary><p>-->
