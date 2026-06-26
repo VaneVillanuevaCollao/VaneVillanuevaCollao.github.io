@@ -157,13 +157,17 @@ img.displayed {
     margin-right: auto }
 
 img.resize{
-    width:65%; /* you can use % */
+    width:62%; /* you can use % */
     height: auto;    
     /* height: 200px; 
     width: 200px;*/
     border-radius: 0;
     display: block;
-  margin: 0 auto;
+  margin: 20px auto 30px auto;
+
+      border-radius: 3px;              /* very subtle rounding */
+    border: 1px solid #d9d9d9;       /* thin light-grey border */
+    box-shadow: 0 3px 10px rgba(0,0,0,0.10);
 }
 
 
