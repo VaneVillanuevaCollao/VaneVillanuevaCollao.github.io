@@ -157,7 +157,7 @@ img.displayed {
     margin-right: auto }
 
 img.resize{
-    width:85%; /* you can use % */
+    width:65%; /* you can use % */
     height: auto;    
     /* height: 200px; 
     width: 200px;*/
