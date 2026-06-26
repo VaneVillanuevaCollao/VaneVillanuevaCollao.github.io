@@ -21,15 +21,6 @@ In this work, I aim to introduce blockchain technological foundations, the role 
 <br>
 <br>
 
-* **Cryptogatekeepers as a Response to Conflicts of Interest in Decentralized Finance** 
-
-<!---	<details>
-  <summary><span class='icon-right'></span> Abstract</summary><p>-->
-This work aims to contribute to the foundational understanding of Decentralized Finance by analyzing the conflicts of interest that emerge from the structure of the cryptoenterprise. It explores cryptogatepeekers as a source for external corporate governance. Cryptogatekeepers could enhance market fairness by preventing misconduct and improving the internal governance of cryptoenterprises. To this end, this work elaborates on the best practices to mitigate conflicts of interest in DeFi. With the performance of specific functions and duty design, cryptogatekeepers in DeFi could potentially become institutional stabilizers and would be particularly useful given the interconnected cross-border nature of these transactions. It further illustrates how existing regulatory frameworks, reputation, and gatekeeping theories could enforce these best practices.   
-<!--- </p></details>-->
-
-<br>
-<br>
 
 * **Data Governance Firms in Corporate Boardroomss** 
 
@@ -53,7 +44,17 @@ Biotech companies have resorted to blockchain and unregulated vehicles, such as 
 
 ## Selected Publications
 
-* **DeFi—A Framework of the Automated Financial Open System, 26 Tulane Journal of Technology and Intellectual Property 75 (2024)**, <a href="https://tlsstore.law.tulane.edu/Product/defi-a-framework-of-the-automated-financial-system" target="_blank">Tulane Store</a> 
+* **Cryptogatekeepers as a Response to Conflicts of Interest in Decentralized Finance, 23 Northwestern Jounral of Technology and Intellectual Property 435 (2026)**, <a href="https://scholarlycommons.law.northwestern.edu/njtip/vol23/iss3/1/="_blank">NJTIP</a> 
+
+<!---	<details>
+  <summary><span class='icon-right'></span> Abstract</summary><p>-->
+This work aims to contribute to the foundational understanding of Decentralized Finance by analyzing the conflicts of interest that emerge from the structure of the cryptoenterprise. It explores cryptogatepeekers as a source for external corporate governance. Cryptogatekeepers could enhance market fairness by preventing misconduct and improving the internal governance of cryptoenterprises. To this end, this work elaborates on best practices for mitigating conflicts of interest in DeFi. With the performance of specific functions and duty design, cryptogatekeepers in DeFi could potentially become institutional stabilizers and would be particularly useful given the interconnected, cross-border nature of these transactions. It further illustrates how existing regulatory frameworks, reputation, and gatekeeping theories could enforce these best practices.   
+<!--- </p></details>-->
+
+<br>
+<br>
+
+* **DeFi—A Framework of the Automated Financial Open System, 26 Tulane Journal of Technology and Intellectual Property 75 (2024)**, <a href="https://tlsstore.law.tulane.edu/Product/defi-a-framework-of-the-automated-financial-system" target="_blank">TJTIP</a> 
 		
 <!---	<details>
   <summary><span class='icon-right'></span> Abstract</summary><p>-->
