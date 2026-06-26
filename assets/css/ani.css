@@ -29,7 +29,7 @@ h2, h4{
 }
 
 a{
-  color: #004676;
+  color: #000;
 }
 
 
@@ -78,8 +78,8 @@ a{
 
 
 .panel-default > .panel-heading {
-  background-color: #2581c4;
-  color: #FFF;
+  background-color: #FFD500;
+  color: #000;
 
 }
 
