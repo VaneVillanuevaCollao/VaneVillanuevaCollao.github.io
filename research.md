@@ -7,7 +7,7 @@ layout: secondary_pages
 
 <!---	<details>
   <summary><span class='icon-right'></span> Abstract</summary><p>-->
-In blockchain, large investors pervasively hold the concentration of power in decentralized organizations due to vote buying or acquisition of voting rights. Retail investors see cryptoassets as yield and are not interested in exercising their voting rights because coordination is still missing. However, instances of aggregation among younger generations have particularly affected corporate governance dynamics: their ability to coordinate, as demonstrated during the GameStop/Robinhood Saga. This proposal aims to exemplify how retail investors’ voting rights in decentralized organizations can be incentivized through a lab experiment on cryptoinvestors’ behavior.
+In blockchain, large investors hold a concentration of power in decentralized organizations due to vote buying or the acquisition of voting rights. Retail investors see cryptoassets as a yield and are not interested in exercising their voting rights because coordination is still missing. However, instances of aggregation among younger generations have particularly affected corporate governance dynamics: their ability to coordinate, as demonstrated during the GameStop/Robinhood Saga. This proposal aims to exemplify how retail investors’ voting rights in decentralized organizations can be incentivized through a lab experiment on crypto investors’ behavior.
 <!--- </p></details>-->
 <br>
 <br>
@@ -17,7 +17,7 @@ In blockchain, large investors pervasively hold the concentration of power in de
 
 <!---	<details>
   <summary><span class='icon-right'></span> Abstract</summary><p>-->
-In this paper, I plan to argue that algorithms should be integrated into the board structure of data-driven enterprises because of the unmanageable volumes of data they generate. Thus, data governance frameworks are crucial for management but especially for board decision-making. How to include data governance in the boardroom? This article illustrates how data governance can be implemented in the boardroom by creating a hybrid model: an “algorithm” next to the human board composition. This boardroom model includes a legal entity (a Data Governance Firm—DGF) for designing an algorithmic board member consistent with the corporation’s purpose. The DGF’s role in developing an algorithmic seat is to transform the corporation and its constituencies into complex intersectional relationships based on data. Therefore, rather than being a nexus of contracts, modern corporations and their constituencies can be included in datasets showing a nexus of data. 
+In this paper, I plan to argue that algorithms should be integrated into the board structure of data-driven enterprises because of the unmanageable volumes of data they generate. Thus, data governance frameworks are crucial for management, but especially for board decision-making. How to include data governance in the boardroom? This article illustrates how data governance can be implemented in the boardroom by creating a hybrid model: an “algorithm” next to the human board composition. This boardroom model includes a legal entity (a Data Governance Firm—DGF) for designing an algorithmic board member consistent with the corporation’s purpose. The DGF’s role in developing an algorithmic seat is to transform the corporation and its constituencies into complex intersectional relationships based on data. Therefore, rather than being a nexus of contracts, modern corporations and their constituencies can be included in datasets showing a nexus of data. 
 <!--- </p></details>-->
 
 <br>
@@ -35,7 +35,8 @@ Biotech companies have resorted to blockchain and unregulated vehicles, such as 
 
 ## Working Papers
 
-* **Cryptoauditors (2026)**, <a href="" target="_blank">SSRN</a>
+* **Cryptoauditors (2026)**, <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6056194" target="_blank">SSRN</a>
+
 <!---	<details>
   <summary><span class='icon-right'></span> Abstract</summary><p>-->
 This Article examines the emergence of cryptoauditors as a new class of intermediaries in decentralized finance (DeFi). Challenging the assumption that blockchain eliminates intermediaries, it argues that technological complexity and governance failures have instead driven a process of re-intermediation. Through an interdisciplinary analysis, the Article demonstrates how cryptoauditors have become key gatekeepers by providing technical assurance, security verification, and governance oversight, offering insights into the future regulation of decentralized markets.
@@ -45,15 +46,17 @@ This Article examines the emergence of cryptoauditors as a new class of intermed
 <br>
 
 * **The Functions of Cryptointermediaries (2026)**, <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5143035=" target="_blank">SSRN</a>
+
 <!---	<details>
   <summary><span class='icon-right'></span> Abstract</summary><p>-->
-In this work, I aim to introduce blockchain technological foundations, the role of code, economic incentives, and the structure and features needed to understand the emergent intermediary functions in Decentralized Finance (DeFi). This paper debunks the myths of complete decentralization of processes and disintermediation claims, uncovering the persistence of intermediaries in DeFi. By defining cryptointermediaries, it becomes possible to analyze and compare their function in DeFi with the one performed by intermediaries in traditional finance. Through interviews with blockchain companies and case studies, this work explores the structure of the cryptoenterprise, the actors that interact with cryptointermediaries, and the absence of internal governance mechanisms. This absence calls for a need for new types of financial gatekeepers who would be known as cryptogatekeepers.
+In this work, I aim to introduce the technological foundations of blockchain, the role of code, economic incentives, and the structure and features needed to understand the emergent intermediary functions in Decentralized Finance (DeFi). This paper debunks the myths of complete decentralization of processes and disintermediation claims, uncovering the persistence of intermediaries in DeFi. By defining cryptointermediaries, it becomes possible to analyze and compare their functions in DeFi with those of intermediaries in traditional finance. Through interviews with blockchain companies and case studies, this work explores the structure of the cryptoenterprise, the actors that interact with cryptointermediaries, and the absence of internal governance mechanisms. This absence calls for new types of financial gatekeepers, known as cryptogatekeepers.
 <!--- </p></details>-->
 
 <br>
 <br>
 
-* **Decentralized (?), But Far From Disorganized: A Comparative Analysis of Legal Wrappers and the Evolving Structire of DAOs (2025)**, <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5143035=" target="_blank">SSRN</a>  
+* **Decentralized (?), But Far From Disorganized: A Comparative Analysis of Legal Wrappers and the Evolving Structure of DAOs (2025)**, <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5143035=" target="_blank">SSRN</a>
+* 
 <!---	<details>
   <summary><span class='icon-right'></span> Abstract</summary><p>-->
 Decentralized Autonomous Organizations (DAOs) increasingly rely on legal wrappers—such as LLCs, trusts, foundations, and public benefit corporations—to manage assets, limit liability, and interact with the legal system. This Article argues that these structures are not merely compliance tools but governance choices that shape the allocation of control, accountability, and decision-making. Through a comparative analysis of DAO legal wrappers across multiple jurisdictions, it demonstrates how organizational law is reshaping decentralized governance, giving rise to hybrid institutions governed by both blockchain protocols and traditional legal frameworks.
@@ -90,7 +93,7 @@ This Article examines the technological and governance foundations of Decentrali
 
 <!---	<details>
   <summary><span class='icon-right'></span> Abstract</summary><p>-->
-This work aims to contribute to the foundational understanding of Decentralized Finance by analyzing the conflicts of interest that emerge from the structure of the cryptoenterprise. It explores cryptogatepeekers as a source for external corporate governance. Cryptogatekeepers could enhance market fairness by preventing misconduct and improving the internal governance of cryptoenterprises. To this end, this work elaborates on best practices for mitigating conflicts of interest in DeFi. With the performance of specific functions and duty design, cryptogatekeepers in DeFi could potentially become institutional stabilizers and would be particularly useful given the interconnected, cross-border nature of these transactions. It further illustrates how existing regulatory frameworks, reputation, and gatekeeping theories could enforce these best practices.   
+This work aims to contribute to the foundational understanding of Decentralized Finance by analyzing the conflicts of interest that emerge from the structure of the cryptoenterprise. It explores cryptogatepeekers as a source for external corporate governance. Cryptogatekeepers could enhance market fairness by preventing misconduct and improving the internal governance of cryptoenterprises. To this end, this work elaborates on best practices for mitigating conflicts of interest in DeFi. With the performance of specific functions and the design of duties, cryptogatekeepers in DeFi could potentially become institutional stabilizers and would be particularly useful given the interconnected, cross-border nature of these transactions. It further illustrates how existing regulatory frameworks, reputation, and gatekeeping theories could enforce these best practices.   
 <!--- </p></details>-->
 
 <br>
@@ -100,7 +103,7 @@ This work aims to contribute to the foundational understanding of Decentralized 
 		
 <!---	<details>
   <summary><span class='icon-right'></span> Abstract</summary><p>-->
-DeFi, or Decentralized Finance, is the technological distribution of financial services empowered by blockchain. This alternative market deals with the same processes of traditional finance involving the creation, management, and investment of money and financial assets. However, the fundamental difference in DeFi gravitates around the multiple financial intermediaries substituted with applications in permissionless systems that automatize cryptoassets trade (a kind of digital asset). This article explores the characteristics of DeFi and the relevant players, evidencing how decentralization and disintermediation are misnomers in innovation technology in Web 3.0, the transactions, and the legal issues (and regulatory gaps) from the US perspective.  
+DeFi, or Decentralized Finance, is the technological distribution of financial services empowered by blockchain. This alternative market operates under the same processes as traditional finance, involving the creation, management, and investment of money and financial assets. However, the fundamental difference in DeFi lies in the replacement of multiple financial intermediaries with applications in permissionless systems that automate cryptoasset trading (a kind of digital asset). This article explores the characteristics of DeFi and the relevant players, demonstrating how decentralization and disintermediation are misnomers in Web 3.0 innovation, transactions, and legal issues (and regulatory gaps) from a US perspective.  
 <!--- </p></details>-->
 
 <br>
