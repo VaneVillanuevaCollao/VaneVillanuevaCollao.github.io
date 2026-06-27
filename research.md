@@ -45,7 +45,7 @@ This Article examines the emergence of cryptoauditors as a new class of intermed
 <br>
 <br>
 
-* **The Functions of Cryptointermediaries (2026)**, <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5143035=" target="_blank">SSRN</a>
+* **The Functions of Cryptointermediaries (2026)**, <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6075086" target="_blank">SSRN</a>
 
 <!---	<details>
   <summary><span class='icon-right'></span> Abstract</summary><p>-->
@@ -55,7 +55,7 @@ In this work, I aim to introduce the technological foundations of blockchain, th
 <br>
 <br>
 
-* **Decentralized (?), But Far From Disorganized: A Comparative Analysis of Legal Wrappers and the Evolving Structure of DAOs (2025)**, <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5143035" target="_blank">SSRN</a>
+* **Decentralized (?), But Far From Disorganized: A Comparative Analysis of Legal Wrappers and the Evolving Structure of DAOs (2025)**, <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5143035=" target="_blank">SSRN</a>
 
 <!---	<details>
   <summary><span class='icon-right'></span> Abstract</summary><p>-->
