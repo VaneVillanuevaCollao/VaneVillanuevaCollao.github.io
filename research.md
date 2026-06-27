@@ -5,6 +5,7 @@ layout: secondary_pages
 ## Work in Progress
 
 * **Private Company Tokenization** *(with <a href="https://law.illinois.edu/faculty-research/faculty-profiles/verity-winship/" target="_blank">Verity Winship</a>)*
+  
 <!---	<details>
   <summary><span class='icon-right'></span> Abstract</summary><p>-->
 The Article  examines whether tokenization can democratize access to private equity while remaining consistent with securities regulation. Using the emergence of tokenized private-company shares—particularly initiatives such as Robinhood's offerings in Europe—as a case study, the article explores the long-standing tension between investor protection and broad retail participation in private markets. It compares the regulatory architectures of the United States and the European Union to explain why tokenized private shares have gained traction under EU law but remain difficult to implement under the U.S. securities framework, ultimately proposing a path toward expanding investor access while preserving appropriate regulatory safeguards.
