@@ -12,15 +12,6 @@ In blockchain, large investors pervasively hold the concentration of power in de
 <br>
 <br>
 
-* **The Functions of Cryptointermediaries** 
-
-<!---	<details>
-  <summary><span class='icon-right'></span> Abstract</summary><p>-->
-In this work, I aim to introduce blockchain technological foundations, the role of code, economic incentives, and the structure and features needed to understand the emergent intermediary functions in Decentralized Finance (DeFi). This paper debunks the myths of complete decentralization of processes and disintermediation claims, uncovering the persistence of intermediaries in DeFi. By defining cryptointermediaries, it becomes possible to analyze and compare their function in DeFi with the one performed by intermediaries in traditional finance. Through interviews with blockchain companies and case studies, this work explores the structure of the cryptoenterprise, the actors that interact with cryptointermediaries, and the absence of internal governance mechanisms. This absence calls for a need for new types of financial gatekeepers who would be known as cryptogatekeepers.
-<!--- </p></details>-->
-<br>
-<br>
-
 
 * **Data Governance Firms in Corporate Boardrooms** 
 
@@ -42,9 +33,39 @@ Biotech companies have resorted to blockchain and unregulated vehicles, such as 
 <br>
 <br>
 
+## Working Papers
+
+* **Cryptoauditors (2026)**, <a href="" target="_blank">SSRN</a>
+<!---	<details>
+  <summary><span class='icon-right'></span> Abstract</summary><p>-->
+This Article examines the emergence of cryptoauditors as a new class of intermediaries in decentralized finance (DeFi). Challenging the assumption that blockchain eliminates intermediaries, it argues that technological complexity and governance failures have instead driven a process of re-intermediation. Through an interdisciplinary analysis, the Article demonstrates how cryptoauditors have become key gatekeepers by providing technical assurance, security verification, and governance oversight, offering insights into the future regulation of decentralized markets.
+<!--- </p></details>-->
+
+<br>
+<br>
+
+* **The Functions of Cryptointermediaries (2026)**, <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5143035=" target="_blank">SSRN</a>
+<!---	<details>
+  <summary><span class='icon-right'></span> Abstract</summary><p>-->
+In this work, I aim to introduce blockchain technological foundations, the role of code, economic incentives, and the structure and features needed to understand the emergent intermediary functions in Decentralized Finance (DeFi). This paper debunks the myths of complete decentralization of processes and disintermediation claims, uncovering the persistence of intermediaries in DeFi. By defining cryptointermediaries, it becomes possible to analyze and compare their function in DeFi with the one performed by intermediaries in traditional finance. Through interviews with blockchain companies and case studies, this work explores the structure of the cryptoenterprise, the actors that interact with cryptointermediaries, and the absence of internal governance mechanisms. This absence calls for a need for new types of financial gatekeepers who would be known as cryptogatekeepers.
+<!--- </p></details>-->
+
+<br>
+<br>
+
+* **Decentralized (?), But Far From Disorganized: A Comparative Analysis of Legal Wrappers and the Evolving Structire of DAOs (2025)**, <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5143035=" target="_blank">SSRN</a>  
+<!---	<details>
+  <summary><span class='icon-right'></span> Abstract</summary><p>-->
+Decentralized Autonomous Organizations (DAOs) increasingly rely on legal wrappers—such as LLCs, trusts, foundations, and public benefit corporations—to manage assets, limit liability, and interact with the legal system. This Article argues that these structures are not merely compliance tools but governance choices that shape the allocation of control, accountability, and decision-making. Through a comparative analysis of DAO legal wrappers across multiple jurisdictions, it demonstrates how organizational law is reshaping decentralized governance, giving rise to hybrid institutions governed by both blockchain protocols and traditional legal frameworks.
+<!--- </p></details>-->
+
+<br>
+<br>
+
+
 ## Selected Publications
 
-* **Cryptoexchanges as Imperfect Cryptogatekeepers in Decentralized Finance (American Business Law Journal, forthcoming)** 
+* **Cryptoexchanges as Imperfect Cryptogatekeepers in Decentralized Finance (American Business Law Journal, forthcoming)** <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5161329" target="_blank">SSRN</a> 
 
 <!---	<details>
   <summary><span class='icon-right'></span> Abstract</summary><p>-->
@@ -53,6 +74,17 @@ This article challenges the assumption that decentralized finance eliminates int
 
 <br>
 <br>
+
+* **DeFi's Premise and Promise of Decentralization and Disintermediation (National Yang Ming Chiao Yung University Law Review, forthcoming)**, <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5119593" target="_blank">SSRN</a>
+
+<!---	<details>
+  <summary><span class='icon-right'></span> Abstract</summary><p>-->
+This Article examines the technological and governance foundations of Decentralized Finance (DeFi), challenging the widespread assumption that blockchain necessarily eliminates intermediaries and achieves full decentralization. It argues that decentralization in DeFi is largely confined to the settlement layer, while new forms of intermediation and centralized control emerge elsewhere in the ecosystem. By examining DeFi's architecture, governance, and common misconceptions, the Article demonstrates that its promise of disintermediation remains only partially realized.
+<!--- </p></details>-->
+
+<br>
+<br>
+  
 
 * **Cryptogatekeepers as a Response to Conflicts of Interest in Decentralized Finance, 23 Northwestern Journal of Technology and Intellectual Property 435 (2026)**, <a href="https://scholarlycommons.law.northwestern.edu/njtip/vol23/iss3/1/=" target="_blank">NJTIP</a> 
 
@@ -64,7 +96,7 @@ This work aims to contribute to the foundational understanding of Decentralized 
 <br>
 <br>
 
-* **DeFi—A Framework of the Automated Financial Open System, 26 Tulane Journal of Technology and Intellectual Property 75 (2024)**, <a href="https://tlsstore.law.tulane.edu/Product/defi-a-framework-of-the-automated-financial-system" target="_blank">TJTIP</a> 
+* **DeFi—A Framework of the Automated Financial Open System, 26 Tulane Journal of Technology and Intellectual Property 75 (2024)**, <a href="https://journals.tulane.edu/TIP/article/view/3899" target="_blank">TJTIP</a> 
 		
 <!---	<details>
   <summary><span class='icon-right'></span> Abstract</summary><p>-->
@@ -74,7 +106,7 @@ DeFi, or Decentralized Finance, is the technological distribution of financial s
 <br>
 <br>
 
-* **Navigating the Transatlantic AI Landscape: The EU Artificial Intelligence Act and its Ripple Effect on the US (2024)** <a href="https://www.medialaws.eu/rivista/navigating-the-transatlantic-ai-landscape-the-eu-artificial-intelligence-act-and-its-ripple-effect-on-the-us/" target="_blank">MediaLaws</a> 
+* **Navigating the Transatlantic AI Landscape: The EU Artificial Intelligence Act and its Ripple Effect on the US (2024)** <a href="https://www.medialaws.eu/preview-navigating-the-transatlantic-ai-landscape-the-eu-artificial-intelligence-act-and-its-ripple-effect-on-the-us/" target="_blank">MediaLaws</a> 
 
 <!---	<details>
   <summary><span class='icon-right'></span> Abstract</summary><p>-->
