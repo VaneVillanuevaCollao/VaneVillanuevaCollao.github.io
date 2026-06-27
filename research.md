@@ -55,11 +55,11 @@ In this work, I aim to introduce the technological foundations of blockchain, th
 <br>
 <br>
 
-* **Decentralized (?), But Far From Disorganized: A Comparative Analysis of Legal Wrappers and the Evolving Structure of DAOs (2025)**, <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5143035=" target="_blank">SSRN</a>
-* 
+* **Decentralized (?), But Far From Disorganized: A Comparative Analysis of Legal Wrappers and the Evolving Structure of DAOs (2025)**, <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5143035" target="_blank">SSRN</a>
+
 <!---	<details>
   <summary><span class='icon-right'></span> Abstract</summary><p>-->
-Decentralized Autonomous Organizations (DAOs) increasingly rely on legal wrappers—such as LLCs, trusts, foundations, and public benefit corporations—to manage assets, limit liability, and interact with the legal system. This Article argues that these structures are not merely compliance tools but governance choices that shape the allocation of control, accountability, and decision-making. Through a comparative analysis of DAO legal wrappers across multiple jurisdictions, it demonstrates how organizational law is reshaping decentralized governance, giving rise to hybrid institutions governed by both blockchain protocols and traditional legal frameworks.
+Decentralized Autonomous Organizations (DAOs) increasingly rely on legal wrappers—such as LLCs, trusts, foundations, and public benefit corporations—to manage assets, limit liability, and interact with the legal system. This Article argues that these structures are not merely compliance tools but governance choices that shape the allocation of control, accountability, and decision-making. A comparative analysis of DAO legal wrappers across multiple jurisdictions demonstrates how organizational law is reshaping decentralized governance, giving rise to hybrid institutions governed by both blockchain protocols and traditional legal frameworks.
 <!--- </p></details>-->
 
 <br>
