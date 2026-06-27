@@ -78,7 +78,7 @@ Decentralized Autonomous Organizations (DAOs) increasingly rely on legal wrapper
 
 ## Selected Publications
 
-* **Cryptoexchanges as Imperfect Cryptogatekeepers in Decentralized Finance (American Business Law Journal, forthcoming)** <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5161329" target="_blank">SSRN</a> 
+* **Cryptoexchanges as Imperfect Cryptogatekeepers in Decentralized Finance (American Business Law Journal, forthcoming)**, <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5161329" target="_blank">SSRN</a> 
 
 <!---	<details>
   <summary><span class='icon-right'></span> Abstract</summary><p>-->
@@ -129,7 +129,7 @@ The op-ed explores the impact of the European Union’s Artificial Intelligence 
 <br>
 <br>
 
-* **Protecting Privacy with Blockchain: When Genomics Meets DTC, European Journal of Privacy & Technology, forthcoming (2025)** 
+* **Protecting Privacy with Blockchain: When Genomics Meets DTC (European Journal of Privacy & Technology, forthcoming)** 
 	
 <!---	<details>
   <summary><span class='icon-right'></span> Abstract</summary><p>-->
@@ -150,4 +150,4 @@ This article illustrates how comparative law would benefit from the scientific m
 <br>
 
 
-* **The New ICO Intermediaries** <a href="https://www.theitalianlawjournal.it/vw/" target="_blank"> 5 Italian Law Journal 731 (2019)</a> *(with <a href="https://law.illinois.edu/faculty-research/faculty-profiles/verity-winship/" target="_blank">Verity Winship</a>)*
+* **The New ICO Intermediaries**, <a href="https://www.theitalianlawjournal.it/vw/" target="_blank"> 5 Italian Law Journal 731 (2019)</a> *(with <a href="https://law.illinois.edu/faculty-research/faculty-profiles/verity-winship/" target="_blank">Verity Winship</a>)*
