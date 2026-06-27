@@ -4,7 +4,7 @@ layout: secondary_pages
 
 ## Work in Progress
 
-* **Private Company Tokenization (with Verity Winship)**
+* **Private Company Tokenization** *(with <a href="https://law.illinois.edu/faculty-research/faculty-profiles/verity-winship/" target="_blank">Verity Winship)</a>*
 <br>
 <br>
 
@@ -145,4 +145,4 @@ This article illustrates how comparative law would benefit from the scientific m
 <br>
 
 
-* **The New ICO Intermediaries** <a href="https://www.theitalianlawjournal.it/vw/" target="_blank">*(5 Italian Law Journal 731, 2019)*</a> *(with <a href="https://law.illinois.edu/faculty-research/faculty-profiles/verity-winship/" target="_blank">Verity Winship)</a>*
+* **The New ICO Intermediaries** <a href="https://www.theitalianlawjournal.it/vw/" target="_blank"> 5 Italian Law Journal 731 (2019)</a> *(with <a href="https://law.illinois.edu/faculty-research/faculty-profiles/verity-winship/" target="_blank">Verity Winship)</a>*
