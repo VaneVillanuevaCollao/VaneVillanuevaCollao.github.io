@@ -3,6 +3,11 @@ layout: secondary_pages
 ---
 
 ## Work in Progress
+
+* **Private Company Tokenization (with Verity Winship)**
+<br>
+<br>
+
 * **Decentralized Governance: Models for Accessible Cryptomarkets** 
 
 <!---	<details>
