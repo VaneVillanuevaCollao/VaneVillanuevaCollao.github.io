@@ -7,7 +7,7 @@ Wagner Fellow in Law & Business at  <a class="a1" href="https://www.law.nyu.edu/
 <br>
 <br>
 
-My research interests lie at the intersection of corporate law and technology, specifically in blockchain, decentralized finance, decentralized governance, and artificial intelligence. My future work builds upon these three strands: unconventional corporate structures that employ blockchain technology, alternative capital markets, and encoded governance structures enabled by artificial intelligence.
+My research interests lie at the intersection of corporate law and technology, specifically in blockchain, decentralized finance, decentralized governance, and artificial intelligence. My current research examines technological governance: emerging digital infrastructures are reshaping traditional mechanisms of coordination, accountability, and institutional authority. Across these domains, I study a common question: how legal institutions adapt when governance functions traditionally exercised by corporations, regulators, and intermediaries are increasingly embedded within technological architectures.
 <br> 
 
 My work integrates comparative legal analysis and sophisticated empirical methods to address pressing legal issues posed by emerging technologies across systems. Drawing on interdisciplinary training from various research institutions during my doctoral studies, I apply diverse social research metrics and a socio-legal perspective to enhance my approach.  
