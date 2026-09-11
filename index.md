@@ -24,7 +24,7 @@ Contact info
 <br>
 
 
-<i class="fa fa-home"></i> UNSW
+<i class="fa fa-home"></i> NYU
 
 Wilf Hall 
 <br>
