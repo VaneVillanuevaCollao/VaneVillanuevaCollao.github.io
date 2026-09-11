@@ -28,7 +28,7 @@ Contact info
 
 Wilf Hall 
 <br>
-139 MacDougal Street, 100k 
+139 MacDougal Street, office 100k 
 <br>
 New York, NY 10012
 <br>
