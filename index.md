@@ -3,10 +3,7 @@ layout: default
 ---
 
 
-Senior Research Fellow in Fintech at  <a class="a1" href="https://www.unsw.edu.au/staff/vanessa-villanueva-collao/" target="_blank">  UNSW, Sydney. School of Private and Commercial Law.</a>
-<br>
-<br>
-Financial Data Revolution Team. <a class="a1" href="https://fintechrevn.org/our-team/" target="_blank"> Australian Research Council Laureate Project.</a> 
+Wagner Fellow in Law & Business at  <a class="a1" href="https://www.law.nyu.edu/centers/pollackcenterlawbusiness/researchfellowships/wagner" target="_blank">  NYU, Pollack Center for Law & Business.</a>
 <br>
 <br>
 
@@ -18,7 +15,7 @@ My work integrates comparative legal analysis and sophisticated empirical method
 <br>
 
 <br>
-You can find my <a href="/assets/CV_2026_VVC.pdf" target="_blank">CV here.</a> 
+You can find my <a href="/assets/CV_09_2026_VVC.pdf" target="_blank">CV here.</a> 
 
 <br>
 
@@ -29,13 +26,13 @@ Contact info
 
 <i class="fa fa-home"></i> UNSW
 
-Law and Justice Building 
+Wilf Hall 
 <br>
-Office 307D F8 Union Rd, 
+139 MacDougal Street, 100k 
 <br>
-Kensington NSW 2052, Sydney
+New York, NY 10012
 <br>
-Australia
+USA
 
 
 
