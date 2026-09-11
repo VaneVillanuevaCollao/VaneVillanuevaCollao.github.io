@@ -21,21 +21,21 @@ h6 {
 }
 h2, h4{
   font-weight: 700;
-  color: #FFD500;
+  color: #57068C;
 }
 
 .a1 {
-  color: #FFD500;
+  color: #57068C;
 }
 
 a{
-  color: #FFD500;
+  color: #57068C;
 }
 
 
 .navbar{
-    background-color: #FFD500;
-    border-color: #FFD500;
+    background-color: #57068C;
+    border-color: #57068C;
 }
 
 
@@ -53,46 +53,46 @@ a{
 
 
 .navbar-color{
-    background-color: #FFD500;
-    border-color: #FFD500;
-    font-color: #000;
-    color: #000;
+    background-color: #57068C;
+    border-color: #57068C;
+    color: #fff;
 }
 
 .nav > li > a:hover,
 .nav > li > a:focus {
   text-decoration: none;
-  background-color: #E87722;
+  background-color: #330662;
+  color: #fff;
 }
 
 .navbar-inverse .navbar-brand {
-  color: #000;
+  color: #fff;
 }
 
 .navbar-inverse .navbar-text {
-  color: #000;
+  color: #fff;
 }
 .navbar-inverse .navbar-nav > li > a {
-  color: #000;
+  color: #fff;
 }
 
 
 .panel-default > .panel-heading {
-  background-color: #FFD500;
-  color: #000;
+  background-color: #57068C;
+  color: #fff;
 
 }
 
 
 .navbar-inverse .navbar-brand:hover {
-  color: #000;
+  color: #fff;
 }
 
 .navbar .navbar-nav > li > a:hover {
-  color: #000;
+  color: #fff;
 }
 
-.collapse, .navbar-collapse{ color: #000; }
+.collapse, .navbar-collapse{ color: #fff; }
 
 .img-portfolio {
     margin-bottom: 30px;
